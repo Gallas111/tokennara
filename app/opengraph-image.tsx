@@ -1,5 +1,6 @@
 import { ImageResponse } from "next/og";
 
+export const dynamic = "force-static";
 export const alt = "토큰나라 — 알트코인 데이터 정리합니다";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
