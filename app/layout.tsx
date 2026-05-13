@@ -15,7 +15,22 @@ export const metadata: Metadata = {
   },
   description:
     "알트코인 거래량·온체인·김치 프리미엄·프로젝트 분석을 매일 정리합니다. 매매 권유가 아닌 정보 제공 매체.",
-  metadataBase: new URL("https://tokennara.com"),
+  metadataBase: new URL("https://www.tokennara.com"),
+  openGraph: {
+    type: "website",
+    locale: "ko_KR",
+    url: "https://www.tokennara.com",
+    siteName: "토큰나라",
+    title: "토큰나라 — 알트코인 데이터 정리합니다",
+    description: "거래량·온체인·김치 프리미엄·프로젝트 펀더멘털. 매매 권유가 아닌 정보 제공 매체.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "토큰나라 — 알트코인 데이터 정리합니다",
+    description: "거래량·온체인·김치 프리미엄·프로젝트 펀더멘털. 매매 권유가 아닌 정보 제공 매체.",
+  },
+  robots: { index: true, follow: true },
+  alternates: { canonical: "https://www.tokennara.com" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

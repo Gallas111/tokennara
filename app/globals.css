@@ -233,3 +233,18 @@ h3 { font-family: var(--font-sans); letter-spacing: -0.025em; font-weight: 700; 
   border: 1px solid var(--border);
   color: var(--muted-strong);
 }
+
+/* === mobile optimization (saju pattern, 9개 블로그 표준) === */
+html, body { overflow-x: hidden; }
+img, video, iframe { max-width: 100%; height: auto; }
+.prose-tokennara { word-break: keep-all; overflow-wrap: anywhere; }
+.prose-tokennara table { display: block; overflow-x: auto; white-space: nowrap; }
+.prose-tokennara h1 { font-size: clamp(1.6rem, 4.5vw, 2.2rem); }
+.prose-tokennara h2 { font-size: clamp(1.35rem, 3.8vw, 1.7rem); }
+.prose-tokennara h3 { font-size: clamp(1.15rem, 3.2vw, 1.35rem); }
+.prose-tokennara h4 { font-size: clamp(1.05rem, 2.8vw, 1.15rem); }
+.prose-mag { word-break: keep-all; overflow-wrap: anywhere; }
+@media (max-width: 640px) {
+  .display { font-size: clamp(1.8rem, 8vw, 2.4rem); }
+  .prose-tokennara p, .prose-tokennara li { font-size: 0.97rem; line-height: 1.75; }
+}
