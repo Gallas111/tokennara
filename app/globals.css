@@ -1,0 +1,235 @@
+@import "tailwindcss";
+
+/*
+ * tokennara — v1 (네온 알트 톤, 폰트 스택은 v2 유지)
+ */
+
+@theme {
+  --font-sans: "SUIT Variable", "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-display: "Wanted Sans Variable", "SUIT Variable", "Pretendard Variable", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+
+:root {
+  --bg: #0a0d12;
+  --surface: #13171f;
+  --surface-2: #1a1f2b;
+  --border: #232a3a;
+  --border-strong: #34405a;
+
+  --text: #eef1f7;
+  --muted: #8893ac;
+  --muted-strong: #b8c3d8;
+
+  /* 네온 그린 — 알트시즌 green candle */
+  --primary: #2dd87c;
+  --primary-soft: rgba(45, 216, 124, 0.12);
+  --primary-strong: #56e895;
+
+  /* 퍼플 — 밈/알트 정체성 */
+  --secondary: #a259ff;
+  --secondary-soft: rgba(162, 89, 255, 0.13);
+
+  /* 옐로 — 김프 트래커·하이라이트 */
+  --accent: #ffd23f;
+  --accent-soft: rgba(255, 210, 63, 0.12);
+
+  --up: #2dd87c;
+  --down: #ff476e;
+  --warn: #ffb547;
+
+  color-scheme: dark;
+}
+
+html {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+  letter-spacing: -0.018em;
+  overflow-x: hidden;
+}
+
+body {
+  background-image:
+    radial-gradient(at 18% -10%, rgba(45, 216, 124, 0.07) 0%, transparent 50%),
+    radial-gradient(at 82% 110%, rgba(162, 89, 255, 0.06) 0%, transparent 50%);
+}
+
+.display, h1 { font-family: var(--font-display); letter-spacing: -0.04em; font-weight: 800; }
+h2 { font-family: var(--font-display); letter-spacing: -0.03em; font-weight: 700; }
+h3 { font-family: var(--font-sans); letter-spacing: -0.025em; font-weight: 700; }
+
+/* mono — 영문/숫자 전용. 한글에 적용 금지 */
+.mono {
+  font-family: var(--font-mono);
+  font-feature-settings: "tnum", "zero", "ss01";
+}
+
+.stat-num {
+  font-family: "Inter", "SUIT Variable", "Pretendard Variable", sans-serif;
+  font-feature-settings: "tnum", "ss01", "cv11";
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.045em;
+  font-weight: 800;
+}
+
+.price-num {
+  font-family: "Inter", "SUIT Variable", sans-serif;
+  font-feature-settings: "tnum", "ss01";
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.025em;
+  font-weight: 600;
+}
+
+.num {
+  font-family: var(--font-sans);
+  font-feature-settings: "tnum";
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+.tabular { font-variant-numeric: tabular-nums; font-feature-settings: "tnum"; }
+
+.brand-gradient {
+  background: linear-gradient(90deg, #2dd87c 0%, #00d9ff 50%, #a259ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  -webkit-font-smoothing: antialiased;
+}
+
+.up { color: var(--up); }
+.down { color: var(--down); }
+.warn { color: var(--warn); }
+
+/* 카테고리 prefix 뱃지 */
+.cat-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  border-radius: 5px;
+  font-family: var(--font-sans);
+  line-height: 1.4;
+}
+.cat-altpick { background: rgba(45, 216, 124, 0.12); color: #2dd87c; border: 1px solid rgba(45, 216, 124, 0.3); }
+.cat-onchain { background: rgba(0, 217, 255, 0.12); color: #00d9ff; border: 1px solid rgba(0, 217, 255, 0.3); }
+.cat-deepdive { background: rgba(162, 89, 255, 0.12); color: #a259ff; border: 1px solid rgba(162, 89, 255, 0.3); }
+.cat-kimp { background: rgba(255, 210, 63, 0.12); color: #ffd23f; border: 1px solid rgba(255, 210, 63, 0.3); }
+
+/* 카드 호버 글로우 */
+.card-glow {
+  position: relative;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+.card-glow:hover {
+  transform: translateY(-2px);
+  border-color: var(--primary) !important;
+  box-shadow: 0 8px 32px rgba(45, 216, 124, 0.08);
+}
+
+/* Pulsing dot for "live" */
+.pulse-dot {
+  width: 8px;
+  height: 8px;
+  background: var(--up);
+  border-radius: 50%;
+  display: inline-block;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.3); }
+}
+
+/* Marquee 티커 */
+.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+}
+.marquee-track {
+  display: inline-block;
+  animation: marquee 30s linear infinite;
+}
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* 본문 prose */
+.prose-tokennara {
+  font-size: 16px;
+  line-height: 1.78;
+  letter-spacing: -0.015em;
+}
+.prose-tokennara h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  margin: 2rem 0 1rem;
+  color: var(--text);
+}
+.prose-tokennara h3 {
+  font-size: 1.18rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  margin: 1.5rem 0 0.75rem;
+  color: var(--muted-strong);
+}
+.prose-tokennara p { margin: 0.85rem 0; color: var(--muted-strong); }
+.prose-tokennara a { color: var(--primary); text-decoration: underline; text-decoration-color: rgba(45, 216, 124, 0.4); text-underline-offset: 3px; }
+.prose-tokennara code {
+  background: var(--surface-2);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-family: var(--font-mono);
+  color: var(--primary);
+}
+.prose-tokennara blockquote {
+  border-left: 3px solid var(--secondary);
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+  background: var(--secondary-soft);
+  border-radius: 0 8px 8px 0;
+  color: var(--muted-strong);
+}
+.prose-tokennara ul, .prose-tokennara ol { padding-left: 1.5rem; margin: 0.75rem 0; }
+.prose-tokennara li { margin: 0.4rem 0; line-height: 1.7; }
+.prose-tokennara strong { color: var(--text); font-weight: 600; }
+.prose-tokennara table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+.prose-tokennara th, .prose-tokennara td { border: 1px solid var(--border); padding: 0.5rem 0.75rem; text-align: left; font-size: 0.95em; }
+.prose-tokennara th { background: var(--surface-2); color: var(--text); font-weight: 600; }
+
+.disclaimer {
+  background: linear-gradient(90deg, rgba(255, 181, 71, 0.06), rgba(255, 71, 110, 0.04));
+  border: 1px solid rgba(255, 181, 71, 0.25);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  font-size: 0.85rem;
+  color: var(--muted-strong);
+  line-height: 1.6;
+}
+.disclaimer strong { color: var(--warn); font-weight: 700; }
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 500;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--muted-strong);
+}
