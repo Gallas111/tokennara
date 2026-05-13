@@ -2,6 +2,8 @@ import type { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
 import { CATEGORY_LIST } from "@/lib/categories";
 
+export const dynamic = "force-static";
+
 const BASE = "https://www.tokennara.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
