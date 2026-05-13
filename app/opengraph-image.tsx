@@ -46,6 +46,8 @@ export default function OG() {
         <div style={{ display: "flex", flexDirection: "column", gap: 18 }}>
           <div
             style={{
+              display: "flex",
+              flexDirection: "column",
               fontSize: 64,
               fontWeight: 900,
               lineHeight: 1.15,
@@ -56,9 +58,8 @@ export default function OG() {
               color: "transparent",
             }}
           >
-            알트코인 데이터,
-            <br />
-            매일 정리합니다
+            <span>알트코인 데이터,</span>
+            <span>매일 정리합니다</span>
           </div>
           <div style={{ fontSize: 22, color: "#a8b0bc", lineHeight: 1.45, maxWidth: 920 }}>
             거래량 · 온체인 · 김치 프리미엄 · 프로젝트 펀더멘털. 매매 권유 아닌 정보 제공 매체.
