@@ -32,6 +32,11 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   alternates: { canonical: "https://www.tokennara.com" },
+  verification: {
+    other: {
+      "naver-site-verification": "93a70fc31f689709875f0e7cc73136ede482a3bc",
+    },
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
