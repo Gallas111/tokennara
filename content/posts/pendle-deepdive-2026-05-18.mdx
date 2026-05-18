@@ -1,0 +1,119 @@
+---
+title: "Pendle Finance, TVL 13.1B → 1.5B 압축 — PT/YT 메커닉과 sPENDLE 구조 정리"
+description: "9월 정점 13.1B에서 1.5B로 압축된 Pendle의 TVL 변화 배경과, PT/YT 수익률 토큰화 메커닉, 신규 sPENDLE 거버넌스 모델을 데이터 기반으로 정리합니다."
+date: "2026-05-18"
+category: "deepdive"
+author: "토큰나라"
+---
+
+## 프로젝트 한 줄 요약
+
+Pendle은 **수익률 자체를 토큰화**해서 매매 가능하게 만든 DeFi 프로토콜입니다. 일반적인 yield farming이 "예치해서 이자를 받는" 구조라면, Pendle은 "예치 자산의 미래 이자를 지금 사고팔 수 있게" 만들었습니다. 채권 시장의 zero-coupon 구조를 DeFi로 옮긴 사례.
+
+## 핵심 데이터
+
+| 지표 | 값 | 출처 |
+|---|---|---|
+| 토큰 심볼 | PENDLE | CoinGecko |
+| 총 발행량 | 약 2.5억 (인플레이션 적용) | 백서 |
+| 유통량 | 약 2.7억 (인플레이션 후) | Tokenomist |
+| 현재 TVL | 약 14.99억 달러 | DefiLlama 5/17 |
+| 2025-09 정점 TVL | 약 131억 달러 | 동상 |
+| 2025 평균 TVL | 약 58억 달러 | Messari |
+| 연간 수수료 매출 (2025) | 약 4,000만 달러 | 동상 |
+
+## PT와 YT — 무엇을 토큰화하나
+
+Pendle의 핵심 메커닉을 단순화하면:
+
+1. **Standardized Yield (SY)** — 이자 발생 자산(예: stETH·sUSDe)을 Pendle 표준 형식으로 래핑
+2. **Principal Token (PT)** — SY의 **원금** 부분만 토큰화. 만기 시 1:1 redeem
+3. **Yield Token (YT)** — SY의 **이자** 부분만 토큰화. 만기까지 발생 이자 누적 수령
+
+예: 1 stETH를 Pendle에 예치 → 1 PT-stETH + 1 YT-stETH 발행. 만기 6개월. PT만 사는 사람은 "원금 보장 zero-coupon" 효과, YT만 사는 사람은 "이자 레버리지" 효과.
+
+### 사용 시나리오
+
+- **고정 이자 추구자** — PT만 매수. 만기 시 1:1 redeem이 보장되므로 사실상 "DeFi 채권"
+- **이자 레버리지 트레이더** — YT만 매수. 미래 이자가 시장 예상보다 높을 거라 베팅
+- **헤지·아비트리지** — PT와 YT 가격차로 무위험 이자율 계산 + 시장 비효율 거래
+
+## TVL 9월 정점 13.1B → 5월 1.5B — 무슨 일이?
+
+[분석 "Pendle의 TVL 압축은 단일 사건이 아닌 복합 흐름"]이라는 게 정확합니다.
+
+### 1. Ethena USDe 흐름 변화
+
+2025년 Pendle TVL 정점 13.1B 중 약 60%가 **USDe 관련 PT/YT** 풀이었습니다. ETH 펀딩비가 높을 때 USDe APR 30%+가 흔했고, Pendle YT-USDe로 레버리지 진입한 자금이 몰린 시기.
+
+2025 4분기부터 ETH 펀딩비 정상화 + USDe APR 평균 10%대로 하락하면서, YT-USDe 거래 매력 감소 → Pendle TVL 급감.
+
+### 2. 만기 도래 + 재진입 부진
+
+PT/YT는 만기가 있는 구조. 9월~12월 만기가 도래한 대규모 풀이 정리되면서 자연 압축. 신규 풀로 재진입 비율이 50% 미만에 그치면서 TVL 회복 부진.
+
+### 3. DeFi 전체 yield 시장 위축
+
+2025 가을~겨울 stablecoin 야율 전반이 5~8%로 정상화. Pendle의 매력은 "비정상 야율을 토큰화"하는 것이라, yield 자체가 정상화되면 거래 매력이 줄어드는 구조적 약점.
+
+## sPENDLE — 5월 새 거버넌스 모델
+
+4월 도입된 **sPENDLE** 모델이 5월 들어 락업 비중을 늘리는 중입니다.
+
+- PENDLE 락업 → sPENDLE 수령 (1:1)
+- 락업 기간: 30일 / 90일 / 1년 / 2년 (길수록 보팅 가중치↑)
+- sPENDLE 보유자: 프로토콜 수수료의 일부 + 거버넌스 권한
+- 5/17 기준 sPENDLE 락업 비중: 유통량의 약 38%
+
+기존 vePENDLE에서 더 진화한 구조. **수수료 환류 + 락업 인센티브**의 조합으로 PENDLE 가치 안정화를 시도하는 모델입니다.
+
+> "Pendle은 yield 자체를 토큰화한 유일한 메이저 프로토콜로, 시장이 yield 시장 재성장 시 가장 빠르게 회복할 수 있는 인프라" — Messari 2026-04 리포트
+
+다만 [분석 "yield 시장 자체가 회복돼야 Pendle도 회복한다"]는 구조적 의존성은 그대로입니다.
+
+## 토크노믹스 리스크
+
+| 항목 | 현황 |
+|---|---|
+| 인플레이션 | 연 5%대 (점진 감소 중) |
+| 팀·재단 락업 | 대부분 해제 완료 |
+| 가장 큰 변수 | 외부 yield 시장 사이클 |
+
+팀 락업이 대부분 해제됐다는 점은 단기 매도 압력 측면에서는 안정적. 다만 토큰 가치 동력이 거의 100% 수수료 환류에 의존하므로, **거래량이 줄면 토큰도 약세**라는 직접 연동 구조.
+
+## 펀더멘털 vs 시장 평가
+
+- **펀더멘털 강점**: 카테고리 1위, 직접 경쟁자 없음, 수수료 매출 견조
+- **펀더멘털 약점**: yield 사이클 의존도 100%, TVL 회복 시점 불확실
+- **시장 평가**: 정점 대비 큰 폭 디스카운트 상태 (TVL 1/9 수준 + PENDLE 가격도 큰 폭 하락)
+
+이미 시장이 부정적 시나리오를 가격에 상당히 반영했다는 평가가 다수. 다만 [분석 "회복 시그널은 아직 약하다"]는 점도 동시 코멘트.
+
+## 단기 트리거 (다음 30~60일 관전 포인트)
+
+- USDe APR 회복 추이 (5월 기준 11~13%대)
+- ETH 펀딩비 방향 (펀딩비 양수 강세 시 Ethena 매력 회복)
+- sPENDLE 락업 비중 — 50% 돌파 시 토큰 락업 효과 가시화
+- 신규 PT/YT 풀 런칭 (BTCFi·RWA 분야 가능성)
+
+## 참고 자료
+
+- [Pendle Finance 공식](https://www.pendle.finance/)
+- [Pendle Documentation](https://docs.pendle.finance/)
+- [DefiLlama Pendle](https://defillama.com/protocol/pendle)
+- [Messari Pendle Profile](https://messari.io/project/pendle)
+- [Crypto News Navigator — Pendle Yield Curve](https://www.cryptonewsnavigator.com/academy/article/pendle-yield-curve-mechanism-market-gap)
+
+## 제가 모르는 것
+
+- yield 시장이 언제 다시 활성화될지
+- PENDLE 가격이 오를지 내릴지
+- sPENDLE 락업 모델이 실제로 토큰 안정화 효과를 낼지
+
+데이터는 정리했습니다. 결정은 본인이 하세요.
+
+---
+
+*본 콘텐츠는 정보 제공 목적이며 매매 권유가 아닙니다. 등록된 투자자문업자가 아닙니다.*
+
+*Disclosure: 필자는 작성 시점 기준 PENDLE을 보유하지 않습니다. ENA·stETH 소량 보유 중.*
