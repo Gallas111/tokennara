@@ -1,0 +1,243 @@
+---
+title: "EigenLayer 딥다이브 — TVL 25B 달러·Kelp DAO 해킹 후폭풍·EIGEN 토크노믹스·ELIP-12 정리"
+description: "EigenLayer 리스테이킹 TVL이 25B 달러대로 회복했지만 4월 Kelp DAO 3억 달러 해킹의 후폭풍이 여전합니다. EIGEN 토크노믹스, ELIP-12 거버넌스, EigenCloud 확장, 6/1 36.8M 토큰 언락을 정리합니다."
+date: "2026-05-19"
+category: "deepdive"
+author: "토큰나라"
+image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=630&fit=crop"
+---
+
+## 프로젝트 한 줄 요약
+
+EigenLayer는 **이더리움 검증자가 ETH 스테이킹 보상 위에 추가로 다른 프로토콜 보안까지 빌려주는 "리스테이킹"** 인프라입니다. 한 ETH 단위가 ETH 보안 + AVS(Actively Validated Service) 보안 양쪽에 사용되면서 추가 수익률이 발생하는 구조.
+
+2024~2025년 가장 빠르게 성장한 카테고리였고, **2026년 4월 Kelp DAO 3억 달러 해킹**으로 카테고리 전체가 잠시 위축됐다가 다시 회복 중인 단계.
+
+## 핵심 데이터 (5월 셋째주 기준)
+
+| 지표 | 값 | 비고 |
+|---|---|---|
+| EigenLayer 리스테이킹 TVL | 약 153억 달러 | 4월 ATH 19.7B 대비 -22% |
+| 리스테이킹 카테고리 전체 TVL | 약 25~28.6억 달러 | 카테고리 ATH |
+| EigenLayer 점유율 | 약 93.9% | 카테고리 사실상 독점 |
+| 리스테이킹 ETH | 약 436만 ETH | 일부 LRT 중복 카운트 |
+| EIGEN 시총 | 약 1.45억 달러 | 5/16 기준 |
+| 유통량 | 약 7.4억 EIGEN | FDV 약 3.86억 |
+| 총 발행량 | 약 18.2억 EIGEN | 점진 언락 |
+| 6/1 예정 언락 | 약 3,682만 EIGEN | 단기 매도 압력 |
+
+데이터 출처는 DefiLlama·EigenLayer 공식·Glassnode 5/14~5/17 스냅샷이며, 일자별 ±3% 변동성이 있습니다.
+
+## 1. 리스테이킹 본질 — "한 ETH의 이중 사용"
+
+리스테이킹의 본질은 **하나의 ETH 자산이 두 곳에 동시에 보안을 제공**한다는 점입니다.
+
+- **기본** — ETH 32개 단위 검증자가 이더리움 합의에 참여, 연 3~4% 보상
+- **+ 리스테이킹** — 같은 ETH(또는 LST)를 EigenLayer에 다시 예치, AVS 검증에 추가 사용, 연 추가 1~5% 보상
+
+이게 가능한 이유:
+1. **AVS는 자체 토큰으로 검증자를 모집할 비용이 큼** — 새 PoS 체인 부트스트래핑의 cold-start 문제
+2. **이미 ETH 검증자가 운영하는 인프라를 빌려쓰면 효율적** — 보안을 임대하는 시장 형성
+3. **검증자는 추가 수익률 + 슬래싱 위험 동시 부담** — 부정확한 검증 시 ETH·EIGEN 양쪽 슬래싱
+
+이 구조의 핵심은 **"보안의 시장화"** — ETH 보안이 자체 자산으로 거래 가능한 상품이 됐다는 의미. 다만 동시에 **슬래싱 캐스케이드 위험**도 생깁니다. 한 AVS에서 검증자 실수 시 ETH + EIGEN 양쪽 슬래싱이 트리거되는 구조.
+
+## 2. EigenLayer 점유율 93.9% — 사실상 독점 구간
+
+리스테이킹 카테고리 TVL 약 25~28.6억 달러 중 EigenLayer 단독 점유 약 93.9%. 경쟁자(Symbiotic·Karak 등)가 있지만 격차가 큽니다.
+
+| 프로토콜 | TVL | 점유율 |
+|---|---|---|
+| EigenLayer | 약 153억 달러 | 93.9% |
+| Symbiotic | 약 4.5억 달러 | 약 2.7% |
+| Karak | 약 3.2억 달러 | 약 2.0% |
+| 기타 | 약 2.5억 달러 | 약 1.4% |
+
+이 독점 구간이 의미하는 것:
+1. **First-mover 우위 + 네트워크 효과** — AVS·검증자가 EigenLayer에 집중되면서 자체 강화
+2. **단일 프로토콜 리스크 집중** — EigenLayer 컨트랙트 버그 시 카테고리 전체 위험
+3. **거버넌스 권한 집중** — ELIP 거버넌스 결정이 사실상 카테고리 표준
+
+다만 4월 Kelp DAO 해킹은 EigenLayer 자체 컨트랙트 문제가 아니라 LRT 레이어 사고였습니다. 즉, EigenLayer 본체 보안은 깨지지 않았지만 그 위에 빌드된 LRT 레이어 위험이 노출된 사건.
+
+## 3. EIGEN 토크노믹스 — 거버넌스 + Intersubjective Slashing
+
+EIGEN 토큰의 핵심 역할은 두 가지.
+
+### (1) 거버넌스
+
+ELIP(EigenLayer Improvement Proposal) 투표 권한. 최근 통과된 ELIP-12는 EIGEN 토큰 buyback 메커니즘 도입 핵심.
+
+### (2) Intersubjective Slashing
+
+객관적으로 검증 불가능한 위반(예: AVS 운영 정책 미준수)에 대한 슬래싱 자산으로 EIGEN을 사용. ETH 슬래싱과 별도 트랙으로 작동.
+
+ELIP-12 핵심:
+- **AVS 수수료 20%** → EIGEN buyback
+- **EigenCloud 인프라 수수료 100%** → EIGEN buyback
+- **Incentives Committee 2026 Q1 출범** → 수수료 발생 AVS에 인센티브 우선 배분
+
+이 구조는 **EIGEN 토큰 수요를 AVS 사용량과 직접 연동**하는 시도. AVS 수익 증가 → EIGEN buyback 증가 → 유통량 감소 → 디플레이션 효과.
+
+다만 **AVS 수익이 의미 있는 수준까지 도달했는지는 아직 검증 단계**. 5월 셋째주 기준 ELIP-12 통과 후 첫 분기 buyback 데이터가 6월 말~7월 초 공개 예정.
+
+## 4. Kelp DAO 해킹 — 카테고리 전체에 준 충격
+
+2026년 4월 19일 Kelp DAO에서 약 3억 달러 익스플로잇 발생. Kelp DAO는 LRT(Liquid Restaking Token) 카테고리에서 ether.fi·Renzo에 이어 3~4위 프로토콜.
+
+해킹 직후 7일간 영향:
+- **Kelp DAO TVL 약 -60%** — 사용자 대규모 인출
+- **rsETH(Kelp 영수증 토큰) 디페그** — 일시 -8% 디페그 발생
+- **카테고리 전체 신뢰도 하락** — EIGEN 토큰 -25% 단기 하락
+- **다른 LRT 프로토콜 자금 이탈 동조** — ether.fi·Renzo TVL 각각 -10%
+
+해킹 원인 분석:
+1. **Kelp 자체 컨트랙트의 인출 검증 로직 버그** — EigenLayer 본체 무관
+2. **운영자 키 관리 미흡 가능성** — 사후 조사 진행 중
+3. **익스플로잇 자금 일부 회수** — 화이트햇 협상 + Tornado Cash 일부 차단
+
+이 사고가 카테고리에 남긴 메시지:
+- **리스테이킹은 본질적으로 다층 레버리지 구조** — EigenLayer → LST → LRT 3중 레이어, 한 레이어 사고가 카테고리 전체로 전염
+- **LRT 영수증 토큰 디페그 위험이 누적되는 구조** — 4월 사고 이후 카테고리 전체 신뢰 회복까지 약 3주 소요
+- **AVS·LRT 보안 감사 강화** — Sherlock·Trail of Bits 등 감사 기관 보고서 의무화 논의
+
+5월 셋째주 기준 카테고리 TVL이 ATH 회복했지만, **EIGEN 토큰 가격은 4월 하락 충격에서 아직 완전 회복하지 못한 상태**(현재 시총 1.45억 달러).
+
+## 5. AVS 생태계 — 실제 사용 중인 프로토콜
+
+EigenLayer 위에 빌드된 AVS는 약 30~50개 활성. 주요 카테고리:
+
+| 카테고리 | 대표 AVS | 역할 |
+|---|---|---|
+| DA (데이터 가용성) | EigenDA·Avail | L2·rollup 데이터 저장 |
+| Bridge | Hyperlane·LayerZero V2 | 크로스체인 메시징 |
+| Oracle | Witness Chain·Lagrange | 데이터 검증 |
+| AI 컴퓨팅 | EigenCompute·Aethos | 검증된 AI 추론 |
+| MEV | MEV-Boost AVS | MEV 처리 검증 |
+
+가장 사용량이 큰 건 **EigenDA** — EigenLabs 자체 운영 데이터 가용성 레이어. Mantle·Celo·등 일부 L2가 데이터 가용성 백엔드로 채택.
+
+다만 AVS 사용량에서 발생하는 실제 수수료가 EIGEN 토큰 buyback에 의미 있게 기여하는지는 다음 분기 데이터로 확인됩니다.
+
+## 6. EigenCloud 확장 — 단순 리스테이킹 → 인프라 플랫폼
+
+EigenLayer는 2025년 후반 **EigenCloud**로 브랜드를 확장하며 단순 리스테이킹 → 종합 검증 인프라 플랫폼으로 전환 중입니다.
+
+EigenCloud 구성:
+- **EigenDA** — 데이터 가용성 (가장 성숙)
+- **EigenCompute** — 검증 가능한 오프체인 컴퓨팅
+- **EigenAI** — AI 추론 검증
+- **EigenVerify** — ZK 증명 검증 인프라
+
+이 확장의 의미:
+1. **단순 리스테이킹 수익률 게임 → 인프라 매출** — 매출 다변화
+2. **AVS 자체 운영을 EigenLabs가 직접 진행** — 외부 AVS 의존도 축소
+3. **장기 매출 모델 확립** — 검증 인프라 사용료 = SaaS 모델
+
+다만 **EigenCloud 인프라 매출이 단기에 의미 있는 규모로 성장할지는 미지수**. 현재는 AVS 보조금·인센티브 의존이 크고, 자생적 매출이 자체 운영비를 넘어서는 시점이 핵심 변수.
+
+## 7. 6/1 EIGEN 토큰 언락 36.8M — 단기 매도 압력
+
+2026년 6월 1일 약 3,682만 EIGEN 신규 언락 예정. 현재 유통량 약 7.4억 EIGEN 대비 약 5% 추가 공급.
+
+언락 영향:
+- **단기 매도 압력** — 일부 투자자·팀 토큰 인출 가능성
+- **시총 약 5% 희석** — 가격 무변동 시 시총 유지에 5% 매수 압력 필요
+- **6월 buyback 효과로 일부 상쇄** — ELIP-12 buyback 첫 데이터 동시 공개
+
+이 언락은 사전 공지된 일정이라 시장 가격에 일부 선반영됐을 가능성이 있습니다. 다만 정확히 얼마나 반영됐는지는 사후에야 확인 가능.
+
+향후 12개월 추가 언락 일정:
+- 6/1 — 36.8M
+- 7/1~12/1 — 매월 약 30~50M
+- 2027/5 — 1억 EIGEN+ (마지막 큰 언락)
+
+언락 일정이 누적된 구조라서, **단기 가격 회복이 누적 언락 매도 압력을 이길 수 있는지**가 향후 6개월 핵심 변수.
+
+## 8. 경쟁 구도 — Symbiotic·Karak 비교
+
+| 항목 | EigenLayer | Symbiotic | Karak |
+|---|---|---|---|
+| TVL | 153억 달러 | 4.5억 달러 | 3.2억 달러 |
+| 토큰 | EIGEN | 미발행 | 미발행 |
+| 모델 | ETH·LST 리스테이킹 + 전용 토큰 | 모듈식 리스테이킹 | 다자산 리스테이킹 |
+| 강점 | First-mover·AVS 생태계 | 경량·모듈성 | 다양한 자산 지원 |
+| 약점 | 6/1 언락 부담 | 생태계 부족 | TVL 작음 |
+
+Symbiotic·Karak이 격차가 큰 상태에서 EigenLayer를 추격 중이지만, 단기에 점유율 역전 가능성은 낮습니다. 다만 **두 경쟁자의 토큰 미발행** 상태가 단기 우위 — 언락 매도 압력이 없는 신생 프로토콜이라는 점.
+
+## 9. 단기 트리거 (5월 말~7월)
+
+| 트리거 | 일정 | 영향 |
+|---|---|---|
+| 6/1 EIGEN 36.8M 언락 | 6/1 | 단기 매도 압력 |
+| ELIP-12 첫 buyback 데이터 | 6월 말~7월 | buyback 메커니즘 검증 |
+| EigenDA 신규 L2 채택 | 5~6월 잠정 | 인프라 매출 |
+| Kelp DAO 사후 보고서 | 5월 말 | 신뢰 회복 검증 |
+| FOMC·매크로 | 5/20·6/12 | BTC 동조 |
+
+가장 중요한 단기 트리거는 **ELIP-12 첫 buyback 데이터**. AVS 수익이 의미 있는 buyback을 만들어내는지 검증되는 첫 분기.
+
+## 10. 리스크 — 단정하지 말아야 할 부분
+
+- **LRT 레이어 사고 재현 가능성** — Kelp DAO 패턴이 다른 LRT에서 재현될 수 있음
+- **AVS 수익 정체** — buyback 규모가 토큰 언락보다 작으면 가격 압력 지속
+- **이더리움 자체 보안 영향 우려** — 리스테이킹 비율이 너무 커지면 ETH 자체 합의에 영향 (Vitalik Buterin도 우려 표명)
+- **규제 변수** — 미국 SEC의 리스테이킹 분류(증권 vs 비증권)
+- **경쟁 프로토콜 토큰 출시** — Symbiotic·Karak 토큰 출시 시 일부 자금 이탈
+
+## 11. 한국 시장 관점 — EIGEN 거래량과 인지도
+
+업비트·빗썸에 EIGEN이 직접 상장되지 않은 상태입니다(5월 셋째주 기준). 한국 사용자는 글로벌 거래소(Binance·OKX·Bybit) 또는 DEX(Uniswap)에서 접근.
+
+이 상장 부재의 의미:
+- **한국 시장 리스테이킹 카테고리 인지도 낮음** — 일반 알트 투자자 노출 적음
+- **김프 데이터 없음** — 한국 거래소 가격 데이터 부재
+- **CYsignal 등 채널에서 다루기 어려운 토큰** — 한국 사용자 접근성 제약
+
+다만 **국내 일부 거래소에서 향후 상장 가능성**은 있고, 상장 시 단기 거래량 폭증 패턴이 발생할 가능성. 다만 한국 거래소가 6/1 언락 직전 상장할 가능성은 낮습니다.
+
+## 12. 1년 후 점검 포인트
+
+다음 6개 지표를 1년 후 다시 보면 의미가 있을 것입니다.
+
+1. **EigenLayer TVL** — 153억 → 250억 돌파 시 카테고리 회복 강화
+2. **AVS 수익 분기 추이** — ELIP-12 buyback 규모가 의미 있는 수준 도달 여부
+3. **EigenCloud 매출** — EigenDA·EigenCompute의 실제 매출 기여도
+4. **경쟁자 점유율 변화** — Symbiotic·Karak 점유율이 5% 돌파 여부
+5. **LRT 카테고리 사고 재발 여부** — Kelp DAO 패턴 재현
+6. **이더리움 자체 변화** — Pectra 후속 업그레이드가 리스테이킹에 미치는 영향
+
+## 13. 종합 — "독점 우위, 단기 매도 압력"
+
+EigenLayer의 본질은 **리스테이킹 카테고리의 사실상 표준으로 자리 잡았다**는 점. 점유율 93.9% + AVS 생태계 + EigenCloud 확장으로 인프라 플랫폼으로 진화 중.
+
+다만 **6/1 토큰 언락 + ELIP-12 buyback 첫 검증 + Kelp DAO 후폭풍**이 단기 가격에 부담을 주는 구조. 펀더멘털(TVL·AVS 사용량)과 토큰 가격이 분기되는 시기가 길어질 가능성.
+
+데이터에 따르면 리스테이킹 카테고리는 회복 중이지만, EIGEN 토큰 자체의 단기 회복은 6월 데이터 검증을 기다려야 하는 단계.
+
+## 데이터 출처
+
+- [EigenLayer 공식 Documentation](https://docs.eigenlayer.xyz/)
+- [DefiLlama EigenLayer Dashboard](https://defillama.com/protocol/eigenlayer)
+- [DefiLlama Restaking Category](https://defillama.com/protocols/Restaking)
+- [Glassnode EIGEN Token Studio](https://studio.glassnode.com/)
+- [CoinLaunch EIGEN Vesting Schedule](https://coinlaunch.space/projects/eigenlayer/vesting/)
+- [Etherscan EIGEN Token](https://etherscan.io/token/0xec53bf9167f50cdeb3ae105f56099aaab9061f83)
+
+## 제가 모르는 것
+
+ELIP-12 buyback의 첫 분기 정확한 규모는 6월 말~7월 초 공식 발표 전까지 확인이 어렵습니다. Kelp DAO 해킹 자금 회수 정도와 LRT 카테고리 신뢰 회복 속도도 사후 검증 필요. 본 글은 데이터 정리이며 매수·매도 권유가 아닙니다.
+
+## 토큰나라 내부 링크
+
+- [Chainlink 딥다이브 — 고래 +7.7%·CCIP 정리](/blog/chainlink-deepdive-2026-05-19)
+- [ETH 스테이킹 비율 30% 돌파 ATH](/blog/eth-staking-queue-onchain-2026-05-19)
+- [Pendle 딥다이브 — 5/18](/blog/pendle-deepdive-2026-05-18)
+- [Hyperliquid 딥다이브 — 5/17](/blog/hyperliquid-deepdive-2026-05-17)
+
+---
+
+*본 콘텐츠는 정보 제공 목적이며 매매 권유가 아닙니다. 등록된 투자자문업자가 아닙니다. 투자 결정과 손익은 본인 책임입니다.*
+
+*Disclosure: 필자는 작성 시점 기준 EIGEN·LRT 토큰 보유하지 않습니다. ETH 소량 보유 중.*
