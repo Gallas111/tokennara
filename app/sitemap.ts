@@ -22,12 +22,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  const postUrls: MetadataRoute.Sitemap = posts.map((p) => ({
-    url: `${BASE}/blog/${p.slug}`,
-    lastModified: p.date,
-    changeFrequency: "weekly",
-    priority: 0.8,
-  }));
+  const postUrls: MetadataRoute.Sitemap = posts
+    .filter((p) => !p.noindex)
+    .map((p) => ({
+      url: `${BASE}/blog/${p.slug}`,
+      lastModified: p.date,
+      changeFrequency: "weekly",
+      priority: 0.8,
+    }));
 
   return [...staticUrls, ...categoryUrls, ...postUrls];
 }

@@ -13,6 +13,7 @@ export type Post = {
   author: string;
   readingMinutes: number;
   content: string;
+  noindex?: boolean;
 };
 
 const POSTS_DIR = path.join(process.cwd(), "content", "posts");
@@ -39,6 +40,7 @@ export function getAllPosts(): Post[] {
       author: data.author || "토큰나라",
       readingMinutes: Math.max(1, Math.round(stats.minutes)),
       content,
+      noindex: data.noindex === true,
     };
   });
 
