@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack -p 3030",
-    "build": "next build --webpack",
-    "start": "next start"
+    "build": "npx tsx scripts/generate-feed.ts && next build --webpack",
+    "start": "next start",
+    "feed": "npx tsx scripts/generate-feed.ts",
+    "indexnow": "bash scripts/submit-indexnow.sh"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
