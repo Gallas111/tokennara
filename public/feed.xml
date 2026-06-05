@@ -5,7 +5,7 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 05 Jun 2026 01:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 01:29:55 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[비트코인 MVRV Z-Score 온체인 — 2월 말 약 0.41 공정가치 구간·실현가격 기준 시장가치 괴리·과열선 약 6.5·바닥선 약 0 이하·6월 5일 미국 고용보고서 매크로 변수 데이터 추적]]></title>
@@ -13,6 +13,14 @@
       <guid isPermaLink="true">https://www.tokennara.com/blog/btc-mvrv-zscore-onchain-2026-06-05</guid>
       <description><![CDATA[비트코인 MVRV Z-Score를 6월 시점 온체인 데이터로 추적했습니다. 2026년 2월 말 기준 약 0.41(공정가치 구간)·BTC 약 8.1만 달러·실현가격 대비 시장가치 괴리·역사적 과열선 약 6.5 이상(사이클 고점)·바닥선 약 0 이하·6월 5일 미국 5월 고용보고서가 단기 매크로 변수 등. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
       <category>onchain</category>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[BTCfi 비트코인 디파이 섹터 알트픽 5선 — 섹터 TVL 약 86억 달러·스택스 STX sBTC TVL 약 4.37억·바빌론 BABY 시총 약 4860만(a16z 1500만 투자)·솔브 SOLV 19,385 BTC 리저브·코어 사토시플러스 6월 월초 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/btcfi-sector-altpick-2026-06-05</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btcfi-sector-altpick-2026-06-05</guid>
+      <description><![CDATA[비트코인 디파이(BTCfi) 섹터 주목 코인을 6월 월초 데이터로 정리했습니다. 섹터 TVL 약 86억 달러(2025년 중반)·스택스(STX) 1분기 sBTC TVL 약 4.37억 달러(고점 약 5.45억)·바빌론(BABY) 시총 약 4860만 달러·a16z 1500만 달러 투자·듀얼 스테이킹·솔브(SOLV) 19,385 BTC 온체인 리저브·코어(CORE) 사토시 플러스 합의 등 5선. 본 글은 데이터 정리 글이며 특정 코인 매수 추천이 아닙니다.]]></description>
+      <category>altpick</category>
       <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.tokennara.com/blog/altcoin-etf-flows-onchain-2026-05-20</guid>
       <description><![CDATA[5월 18~19일 비트코인·이더리움 ETF는 순유출 진입하는 가운데 XRP·솔라나·LINK·HBAR·DOGE ETF는 합산 1억 5천만 달러 가까이 순유입했습니다. 알트 ETF 자금 회전의 의미를 정리했습니다.]]></description>
       <category>onchain</category>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Bittensor (TAO) 프로젝트 딥다이브 — dTAO 서브넷 구조·매출 논쟁·Spot TAO ETF 신청 정리]]></title>
-      <link>https://www.tokennara.com/blog/bittensor-deepdive-2026-05-20</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/bittensor-deepdive-2026-05-20</guid>
-      <description><![CDATA[Bittensor TAO가 2026년 AI 섹터 알트 슈퍼 내러티브로 부상한 가운데 dTAO 서브넷 구조·Q1 매출 $43M 논쟁·Spot TAO ETF 신청·$650M 청산 사고 등 핵심 데이터를 한 자리에 정리했습니다.]]></description>
-      <category>deepdive</category>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
