@@ -5,8 +5,16 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 04 Jun 2026 06:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 01:24:18 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Ether.fi ETHFI 딥다이브 — 총공급 10억 고정·유통 약 6.99억·LST 2위 TVL 약 37~78억 달러·eETH 리퀴드 리스테이킹·5천만 달러 바이백·ETHGas 30억 달러 3년 계약 6월 월초 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/etherfi-ethfi-deepdive-2026-06-05</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/etherfi-ethfi-deepdive-2026-06-05</guid>
+      <description><![CDATA[이더리움 리퀴드 리스테이킹 1·2위권 프로토콜인 Ether.fi(ETHFI)를 6월 월초 데이터로 정리했습니다. 총공급 10억 고정·유통 약 6.99억·LST 2위 TVL 약 37~78억 달러·eETH가 EigenLayer 재담보·DAO 5천만 달러 바이백(3달러 이하·찬성 약 99%)·ETHGas 30억 달러 규모 3년 블록스페이스 선물 계약·투자자 물량 2026년 초 베스팅 마무리 등. 본 글은 데이터 정리 글이며 ETHFI 매수 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[에이브 AAVE 딥다이브 — 시총 약 11.7억 달러·TVL 약 145억 달러 디파이 렌딩 1위·총공급 1,600만(유통 약 1,543만)·V4 허브앤스포크·GHO 약 5.8억 달러·Umbrella 자동 슬래싱·Aave Will Win 100% 수익 DAO 귀속 6월 월초 데이터 정리]]></title>
       <link>https://www.tokennara.com/blog/aave-deepdive-2026-06-04</link>
@@ -397,14 +405,6 @@
       <guid isPermaLink="true">https://www.tokennara.com/blog/btc-liquidation-onchain-2026-05-20</guid>
       <description><![CDATA[5월 18일 비트코인 $77,000 하향 이탈로 24시간 $657M 청산이 발생했습니다. 롱 비중 89%·트럼프 이란 발언·고래 거래소 유입 데이터를 정리했습니다.]]></description>
       <category>onchain</category>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 20일 DePIN 알트픽 5선 — Akash·io.net·Aethir·HNT·RNDR 컴퓨트 매출과 시장 점유 정리]]></title>
-      <link>https://www.tokennara.com/blog/depin-altpick-2026-05-20</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/depin-altpick-2026-05-20</guid>
-      <description><![CDATA[DePIN 섹터 시가총액이 2026년 초 90~100억 달러대로 성장하면서 5월 회차 자금이 매출 검증된 프로젝트로 집중됩니다. Akash·io.net·Aethir·Helium·Render 다섯 종목 데이터를 정리했습니다.]]></description>
-      <category>altpick</category>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
