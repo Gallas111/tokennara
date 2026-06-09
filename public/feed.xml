@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 08 Jun 2026 02:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:02:39 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[비트코인 NUPL 순미실현 손익 온체인 — 6월 6일 약 0.12(12%) 낙관 하단 구간·이번 사이클은 0.75 유포리아 미진입·믿음(0.5~0.75) 영역 고점 후 하락·구간별 투자심리(공포·희망·낙관·믿음·유포리아) 해석·MVRV와 차이 데이터 추적]]></title>
+      <link>https://www.tokennara.com/blog/btc-nupl-onchain-2026-06-09</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-nupl-onchain-2026-06-09</guid>
+      <description><![CDATA[비트코인 NUPL(Net Unrealized Profit/Loss·순미실현 손익)을 6월 시점 온체인 데이터로 추적했습니다. 6월 6일 약 0.12(12%) 낙관~희망 하단 구간·이번 사이클은 0.75 유포리아 영역에 끝내 진입하지 못하고 믿음(0.5~0.75) 영역에서 고점·이후 주황(중·약세) 영역으로 하락·구간별 투자심리(공포 음수·희망 0~0.25·낙관 0.25~0.5·믿음 0.5~0.75·유포리아 0.75+) 해석·MVRV와의 차이 등. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[6월 9일 김프 트래커 — 5월 美 CPI 발표 D-1·김프 약 -3.6% 역김프 구간·BTC 약 6만 3천 달러·CPI가 김치프리미엄에 미치는 경로·업비트 vs 바이낸스 가격차 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/kimp-cpi-2026-06-09</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-cpi-2026-06-09</guid>
+      <description><![CDATA[5월 미국 CPI 발표(6월 10일 한국시각 밤) 하루 전 시점 김프 트래커입니다. 김프 약 -3.6% 역김프(디스카운트) 구간·BTC 약 6만 3천 달러(초여름 약세)·CPI가 김치프리미엄에 미치는 경로(달러 환율·위험선호·한국 매수세)·업비트 vs 바이낸스 가격차·역김프가 길어지는 구조적 배경 등을 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[토르체인 RUNE 딥다이브 — 시총 약 1.1억 달러·DEX 유동성 약 6,400만 달러·누적 스왑 약 1,210억 달러·유통 약 3.5억 RUNE·노드 최소 본드 30만 RUNE·전 수수료 RUNE 결제·v3.17.0 업그레이드·솔라나 통합 로드맵 6월 월초 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/thorchain-rune-deepdive-2026-06-09</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/thorchain-rune-deepdive-2026-06-09</guid>
+      <description><![CDATA[네이티브 크로스체인 스왑 1세대 토르체인(THORChain·RUNE)을 6월 월초 데이터로 정리했습니다. 시총 약 1.1억 달러·RUNE 약 0.32달러·DEX 유동성 약 6,400만 달러·누적 스왑 약 1,210억 달러·유통 약 3.5억 RUNE·노드 최소 본드 30만 RUNE(평균 약 95만)·모든 수수료가 RUNE로 결제되며 RUNE 매수에 쓰이는 구조·v3.17.0 100여 개 개선·솔라나 통합 로드맵·과거 보안 사고 이력 등. 본 글은 데이터 정리 글이며 RUNE 매수 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[6월 둘째주 주간 김프 트래커 — 역김프 약 -2.5% 24일 연속 디스카운트·6월 1일 약 -3.1% 2021년 이후 최저·6월 6일 약 -2.46%·업비트 거래대금 약 12억 달러·KOSPI AI 자금이동·6월 10일 CPI D-2 점검 루틴 정리]]></title>
       <link>https://www.tokennara.com/blog/kimp-weekly-2026-06-08</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[Pump.fun이 2026년 Q1 매출 $124.7M로 솔라나 앱 총 매출의 36%를 단일 지배하는 가운데, 5월 PUMP 36% 토큰 burn·USDC quote 5월 21일 도입·SOL 트레저리 매도 재개 등 단기 트리거를 PUMP 토크노믹스 기준으로 정리했습니다.]]></description>
       <category>deepdive</category>
       <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 24일 리스테이킹 LRT 섹터 알트픽 — EtherFi $7.8B·Renzo $2B·Kelp $1.3B·Puffer 4종 TVL·거버넌스·언락 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/restaking-sector-altpick-2026-05-24</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/restaking-sector-altpick-2026-05-24</guid>
-      <description><![CDATA[EigenLayer 위에 쌓인 LRT(Liquid Restaking Token) 섹터가 2026년 5월 시점 통합 TVL 100억 달러 영역에서 EtherFi 단일 지배 패턴을 굳히는 가운데, ETHFI·REZ·KELP·PUFFER 4종의 TVL·매출·토큰 언락·거버넌스 데이터를 5월 24일 시점으로 정리했습니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Aave V4 알트픽 — 3/30 메인넷 가동 60일·통합 유동성 레이어·GHO 5억 달러·Aave Network L2 로드맵 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/aave-v4-altpick-2026-05-23</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/aave-v4-altpick-2026-05-23</guid>
-      <description><![CDATA[Aave V4가 2026년 3월 30일 메인넷 가동 후 60일 시점에서 통합 유동성 레이어 아키텍처·GHO 시총 약 5억 달러·KelpDAO 4월 익스플로잇 후폭풍·Aave Network L2 로드맵을 데이터 기반으로 정리했습니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 23일 알트시즌 인덱스 온체인 — CMC 39/100·BTC 도미넌스 60%·공포탐욕 39·ETH·SOL·XRP 펀딩비 음수 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/altseason-index-btc-dominance-onchain-2026-05-23</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/altseason-index-btc-dominance-onchain-2026-05-23</guid>
-      <description><![CDATA[5월 23일 시점 CMC 알트시즌 인덱스 39/100·BTC 도미넌스 약 60%·공포탐욕 39 + ETH·SOL·XRP 영구선물 펀딩비 음수 구간 데이터를 정리했습니다. 비트코인 시즌 영역에서 알트 회전 신호를 점검하는 4개 변수와 한국 투자자 변수까지.]]></description>
-      <category>onchain</category>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
