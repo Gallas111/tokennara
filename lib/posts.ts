@@ -56,3 +56,13 @@ export function getPostBySlug(slug: string): Post | null {
 export function getPostsByCategory(category: CategoryKey): Post[] {
   return getAllPosts().filter((p) => p.category === category);
 }
+
+// 관련 글: 같은 카테고리 최신순 우선, 부족하면 다른 카테고리 최신글로 채움 (noindex 제외)
+export function getRelatedPosts(slug: string, limit = 3): Post[] {
+  const post = getPostBySlug(slug);
+  if (!post) return [];
+  const others = getAllPosts().filter((p) => p.slug !== slug && !p.noindex);
+  const same = others.filter((p) => p.category === post.category);
+  const rest = others.filter((p) => p.category !== post.category);
+  return [...same, ...rest].slice(0, limit);
+}

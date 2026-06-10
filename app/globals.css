@@ -248,3 +248,7 @@ img, video, iframe { max-width: 100%; height: auto; }
   .display { font-size: clamp(1.8rem, 8vw, 2.4rem); }
   .prose-tokennara p, .prose-tokennara li { font-size: 0.97rem; line-height: 1.75; }
 }
+
+/* TOC 앵커 점프 보정 (2026-06-10 목차 추가) */
+html { scroll-behavior: smooth; }
+.prose-tokennara h2 { scroll-margin-top: 90px; }
