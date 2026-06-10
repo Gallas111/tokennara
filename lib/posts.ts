@@ -13,6 +13,7 @@ export type Post = {
   author: string;
   readingMinutes: number;
   content: string;
+  image?: string;
   noindex?: boolean;
 };
 
@@ -40,6 +41,7 @@ export function getAllPosts(): Post[] {
       author: data.author || "토큰나라",
       readingMinutes: Math.max(1, Math.round(stats.minutes)),
       content,
+      image: typeof data.image === "string" ? data.image : undefined,
       noindex: data.noindex === true,
     };
   });

@@ -38,6 +38,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       description: post.description,
       type: "article",
       publishedTime: post.date,
+      ...(post.image && { images: [post.image] }),
+    },
+    twitter: {
+      card: post.image ? "summary_large_image" : "summary",
+      title: post.title,
+      description: post.description,
+      ...(post.image && { images: [post.image] }),
     },
     ...(post.noindex && {
       robots: { index: false, follow: true },
@@ -53,8 +60,38 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
   const toc = extractH2s(post.content);
   const related = getRelatedPosts(slug);
 
+  const SITE_URL = "https://www.tokennara.com";
+  const pageUrl = `${SITE_URL}/blog/${slug}`;
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.description,
+    datePublished: post.date,
+    author: { "@type": "Organization", name: "토큰나라" },
+    publisher: { "@type": "Organization", name: "토큰나라", url: SITE_URL },
+    mainEntityOfPage: pageUrl,
+    ...(post.image && { image: [`${SITE_URL}${post.image}`] }),
+  };
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "홈", item: SITE_URL },
+      { "@type": "ListItem", position: 2, name: post.title, item: pageUrl },
+    ],
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <Header />
       <main className="flex-1 max-w-3xl mx-auto px-6 py-12">
         <Link href="/" className="text-[12px] text-[var(--muted)] hover:text-[var(--primary)] mb-6 inline-block font-medium">
