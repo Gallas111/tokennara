@@ -68,7 +68,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
     headline: post.title,
     description: post.description,
     datePublished: post.date,
-    author: { "@type": "Organization", name: "토큰나라" },
+    author: { "@type": "Organization", name: "토큰나라", url: SITE_URL },
     publisher: { "@type": "Organization", name: "토큰나라", url: SITE_URL },
     mainEntityOfPage: pageUrl,
     ...(post.image && { image: [`${SITE_URL}${post.image}`] }),
@@ -82,6 +82,30 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
     ],
   };
 
+  // FAQ: 본문 '## 자주 묻는 질문' 아래 '**Q: 질문**\nA: 답변' 형식 추출 → FAQPage 스키마
+  const faqs: { question: string; answer: string }[] = [];
+  const faqSection = post.content.match(/## 자주 묻는 질문[\s\S]*$/);
+  if (faqSection) {
+    const boldRegex =
+      /\*\*Q[.:]?\s*(.+?)\*\*\n+(?:A[.:]\s*)?([\s\S]*?)(?=\n\*\*Q|\n## |$)/g;
+    let match;
+    while ((match = boldRegex.exec(faqSection[0])) !== null) {
+      faqs.push({ question: match[1].trim(), answer: match[2].trim() });
+    }
+  }
+  const faqSchema =
+    faqs.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqs.map((f) => ({
+            "@type": "Question",
+            name: f.question,
+            acceptedAnswer: { "@type": "Answer", text: f.answer },
+          })),
+        }
+      : null;
+
   return (
     <>
       <script
@@ -92,6 +116,12 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       <Header />
       <main className="flex-1 max-w-3xl mx-auto px-6 py-12">
         <Link href="/" className="text-[12px] text-[var(--muted)] hover:text-[var(--primary)] mb-6 inline-block font-medium">
