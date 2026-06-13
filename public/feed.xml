@@ -5,8 +5,80 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 10 Jun 2026 01:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 04:23:15 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[앱토스 APT 딥다이브 — 코인베이스 자문위 양자내성 블록체인 선정·스테이블코인 시총 약 16.6억 달러·180일 17억 건 처리에도 일평균 활성 지갑 100만→약 6.8만 급감·사상 최저가 0.61달러 기록한 펀더멘털과 가격 괴리 데이터 점검]]></title>
+      <link>https://www.tokennara.com/blog/aptos-apt-deepdive-2026-06-13</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/aptos-apt-deepdive-2026-06-13</guid>
+      <description><![CDATA[앱토스(Aptos·APT)를 2026년 6월 시점 데이터로 딥다이브했습니다. 코인베이스 자문위가 6월 9일 양자내성(post-quantum) 준비 블록체인으로 선정·스테이블코인 시총 약 16.6억 달러·주간 수수료로 약 3.36만 APT 소각·180일간 약 17억 건 트랜잭션 처리에도 일평균 활성 지갑이 연초 100만 명대에서 약 6.8만 명으로 급감·사상 최저가 0.61달러까지 — 펀더멘털 지표와 가격의 괴리를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 푸엘 멀티플 온체인 — 0.74로 하락·5월 말 0.83에서 2주 만에 미끄러짐·채굴자 수익 2022년 저점 수준·0.5 그린존 미달 데이터로 읽는 채굴자 항복과 바닥 신호]]></title>
+      <link>https://www.tokennara.com/blog/btc-puell-multiple-onchain-2026-06-13</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-puell-multiple-onchain-2026-06-13</guid>
+      <description><![CDATA[비트코인 푸엘 멀티플(Puell Multiple) 지표를 6월 13일 시점 데이터로 정리했습니다. 0.74로 하락(최근 1년 평균 대비 약 74% 수익)·5월 말 0.83에서 2주 만에 미끄러짐·채굴자 수익이 2022년 약세장 저점 수준으로 거론·역사적 바닥과 겹친 0.5 그린존은 아직 미달까지 — 신규 발행 BTC의 달러 가치로 채굴자 수익성과 매도 압력을 읽는 법을 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[원/달러 1,520원 고환율 김프 트래커 — 환율이 김치프리미엄 계산식을 흔드는 원리·달러 강세 아닌데 원화만 약세·역김프와 고환율의 관계·FOMC D-4 환율 체크포인트 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/kimp-fx-1520-2026-06-13</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-fx-1520-2026-06-13</guid>
+      <description><![CDATA[원/달러 환율이 1,520원대로 다시 올라선 6월 13일 김프 트래커입니다. 고환율이 김치프리미엄 계산식의 분모를 흔드는 원리·달러 인덱스는 100 아래인데 원화만 약세인 배경·고환율과 역김프(디스카운트)가 같이 가는 구조·6월 16~17일 FOMC(D-4) 환율 체크포인트까지 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 SOPR 온체인 — aSOPR 30일 평균 13일 연속 1.0 아래·단기 보유자 SOPR z-스코어 -1.86·실현 시총 약 120억 달러 감소·손실 실현 데이터로 읽는 바닥 신호]]></title>
+      <link>https://www.tokennara.com/blog/btc-sopr-onchain-2026-06-12</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-sopr-onchain-2026-06-12</guid>
+      <description><![CDATA[비트코인 SOPR(지출 산출 수익률) 지표를 6월 12일 시점 데이터로 정리했습니다. aSOPR 30일 이동평균이 13일 연속 1.0 아래, 단기 보유자 SOPR z-스코어 저점 약 -1.86(항복 임계 -2 직전), 실현 시가총액 5월 중순 고점 대비 약 120억 달러 감소, 일일 실현 손실 약 13.5억 달러까지 — 손실 실현 강도로 바닥 신호를 읽는 법을 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[인젝티브 INJ 딥다이브 — 벌컨 메인넷 업그레이드 6월 9일 가동·태국 M-INJ 펀드 개시·커뮤니티 바이백 약 31.5만 달러·스테이킹 ETF 신청 대기까지 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/injective-inj-deepdive-2026-06-12</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/injective-inj-deepdive-2026-06-12</guid>
+      <description><![CDATA[파생상품 특화 레이어1 인젝티브(Injective·INJ)를 6월 12일 시점 데이터로 딥다이브했습니다. 가격 약 5.2~5.6달러 영역, 6월 9일 가동된 벌컨 메인넷 업그레이드(수수료 인하·네이티브 USDC 결제·RWA 마켓), 6월 4일 개시된 태국 SEC 감독 M-INJ 펀드, 6월 커뮤니티 바이백 약 31.5만 달러, 캐너리·21셰어스의 INJ ETF 신청까지 토크노믹스와 단기 트리거를 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[프라이버시 코인 섹터 데이터 — 지캐시 ZEC 오차드 결함 공개 후 635달러에서 309달러 급락·모네로 XMR 감사 대기열 합류·그레이스케일 프라이버시 ETF 신청까지 6월 변수 정리]]></title>
+      <link>https://www.tokennara.com/blog/privacy-sector-altpick-2026-06-12</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/privacy-sector-altpick-2026-06-12</guid>
+      <description><![CDATA[프라이버시 코인 섹터를 6월 12일 시점 데이터로 점검했습니다. 지캐시(ZEC) 오차드 풀 4년 묵은 위조 가능성 결함 공개와 635달러에서 309달러 장중 급락, 긴급 패치·포크, 모네로(XMR) 감사 대기열 합류와 약 10% 하락, 800달러 고점 후 조정, 그레이스케일 프라이버시 현물 ETF 신청까지 섹터 변수를 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>altpick</category>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[아발란체 AVAX 딥다이브 — 일본 프로그마 2조 원대 토큰화 증권 6월 이전 완료 트리거·Avalanche9000 업그레이드·수수료 전량 소각 토크노믹스·RWA 기관 채택 데이터 점검]]></title>
+      <link>https://www.tokennara.com/blog/avalanche-avax-deepdive-2026-06-11</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/avalanche-avax-deepdive-2026-06-11</guid>
+      <description><![CDATA[아발란체(AVAX)를 2026년 6월 시점 데이터로 딥다이브했습니다. 일본 최대 증권 토큰 플랫폼 프로그마(Progmat)의 20억 달러 이상 토큰화 부동산·회사채 이전 6월 완료 예정·일본 디지털 증권 누적 발행 약 63% 플레이어·Avalanche9000 업그레이드(배포 비용 99.9% 절감)·총량 7.2억 개와 수수료 전량 소각 토크노믹스·기관 전망치와 리스크까지. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[비트코인 고래 지갑 수 온체인 — 1000 BTC 이상 고래 1,285개에서 1,279개로 감소·일주일 새 약 6,000 BTC 매도·호들러 순포지션 7.69% 감소·5월 현물 ETF 순유출 23억 달러까지 매도 주체 데이터 추적]]></title>
+      <link>https://www.tokennara.com/blog/btc-whale-wallets-onchain-2026-06-11</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-whale-wallets-onchain-2026-06-11</guid>
+      <description><![CDATA[비트코인 고래 지갑(1000 BTC 이상 보유 주소) 수를 6월 시점 온체인 데이터로 추적했습니다. 글래스노드 기준 5월 22일 1,285개에서 5월 28일 1,279개로 감소·일주일 새 최소 약 6,000 BTC 시장 유출·호들러(155일 이상) 순포지션 변화 42,301에서 39,049 BTC로 7.69% 감소·5월 현물 ETF 순유출 23억 달러(올해 최대)·매도 주체 분해와 흔한 오해까지. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CPI 쇼크 다음날 김프 트래커 — 5월 물가 4.2% 3년 최고에 주식·금·비트코인 동반 하락·금리 인상 우려 부상·비트코인 약 6만 1천 달러·역김프 향방과 6월 FOMC D-5 체크포인트 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/kimp-cpi-result-2026-06-11</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-cpi-result-2026-06-11</guid>
+      <description><![CDATA[5월 미국 CPI가 전년 대비 4.2%로 3년 만의 최고치를 기록한 다음날(6월 11일) 김프 트래커입니다. 에너지발 물가 급등·근원물가 안정·뉴욕 3대 지수와 금·비트코인 동반 하락·금리 인상 우려 부상·비트코인 약 6만 1천 달러·역김프 구간 지속·6월 FOMC(16~17일) D-5 체크포인트까지 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[AI 에이전트 토큰 섹터 알트픽 5선 — 6월 10일 섹터 시총 약 153억 달러·버추얼스(VIRTUAL)·ai16z·AIXBT·점유율·런치패드 약 1.4만 에이전트·전부 ATH 대비 55~97% 하락·인프라 AI 섹터와 차이 데이터 정리]]></title>
       <link>https://www.tokennara.com/blog/ai-agent-sector-altpick-2026-06-10</link>
@@ -334,78 +406,6 @@
       <description><![CDATA[5월 28일 시점 BTC가 8만 달러를 도전하며 2026년 가장 빠른 BTC 무기한 선물 미결제약정 증가 속도를 기록하고, 바이낸스가 신규 파생 자금 다수를 흡수해 약 34% 점유를 유지하고, 여러 주간 음수 펀딩비로 레버리지 다수가 공매도 포지션이었던 가운데 공매도 스퀴즈 가능성이 거론되는 등 선물 미결제약정·펀딩비·롱숏 비율 포지셔닝 데이터를 온체인 기준으로 정리했습니다.]]></description>
       <category>onchain</category>
       <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[게임파이 섹터 알트픽 — GameFi 시총 약 154억 달러·Immutable 680개 게임·Ronin 5월 12일 이더리움 L2 전환·GALA 시총 약 7억 1천 5백만 달러 5월 후반 정리]]></title>
-      <link>https://www.tokennara.com/blog/gamefi-sector-altpick-2026-05-28</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/gamefi-sector-altpick-2026-05-28</guid>
-      <description><![CDATA[5월 후반 게임파이(GameFi) 섹터에서 Immutable이 약 680개 게임 인프라로 IMX 시총 영역을 유지하고, Ronin이 5월 12일 이더리움 L2로 전환하며 RON 인플레이션을 20%대에서 1% 미만으로 절감하고, GALA가 시총 약 7억 1천 5백만 달러로 멀티게임 생태계를 운영하는 등 GameFi 4종(IMX·RON·GALA·게임 인프라) 시총·점유·온체인 활성도 데이터를 정리했습니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Celestia TIA 딥다이브 — 시총 약 4억 3천 6백만 달러·모듈러 DA 점유 약 40%·Matcha 업그레이드 발행률 5%에서 0.25%·Eclipse 83GB 데이터 락인 5월 후반 정리]]></title>
-      <link>https://www.tokennara.com/blog/celestia-deepdive-2026-05-27</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/celestia-deepdive-2026-05-27</guid>
-      <description><![CDATA[Celestia가 5월 시점 시총 약 4억 3천 6백만 달러·모듈러 rollup 데이터 점유 약 40%로 DA 1위 자리를 지키는 가운데, 1월 Matcha 업그레이드의 PoG 도입과 발행률 5%에서 0.25% 절감·Eclipse 83GB 누적 데이터 락인·Vision 2.0 Fibre 로드맵 등 모듈러 블록체인 핵심 인프라 토크노믹스와 단기 트리거를 데이터 기반으로 정리했습니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 27일 DEX 애그리게이터 점유 온체인 — 1inch EVM 누적 약 7천억 달러·Jupiter Solana 점유 약 90%·CowSwap 배치 모델·Uniswap 30일 약 887억 달러 5월 후반 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/dex-aggregator-share-onchain-2026-05-27</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/dex-aggregator-share-onchain-2026-05-27</guid>
-      <description><![CDATA[5월 27일 시점 DEX 애그리게이터 시장에서 1inch가 EVM 12개 체인 누적 swap 약 7천억 달러·Jupiter가 Solana 전체 swap 약 90%·CowSwap이 coincidence-of-wants 배치 모델로 batch settle·Uniswap 30일 거래량 약 887억 5천 6백만 달러·DEX 현물 거래량이 전체 암호화폐의 약 24.1% 점유 등 DEX 애그리게이터 점유와 ecosystem별 dominance 구조를 온체인 데이터로 정리했습니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 27일 XRP 김프 트래커 — XRP 김프 약 0.89%·5월 13일 업비트 거래량 약 1억 1천 90만 달러·BTC ETH 합산 추월·Korea Premium Index 5/7 약 1.98% 정리]]></title>
-      <link>https://www.tokennara.com/blog/xrp-kimp-tracker-2026-05-27</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/xrp-kimp-tracker-2026-05-27</guid>
-      <description><![CDATA[5월 27일 시점 XRP가 한국 거래소에서 BTC·ETH를 거래량 기준 추월한 회차, 4월 초 XRP 김프 약 0.89%·5월 13일 업비트 XRP 24시간 거래량 약 1억 1천 90만 달러·BTC 약 8천 8백 60만 달러·ETH 약 6천 7백만 달러·5월 7일 Korea Premium Index 약 1.98% 등 XRP 김프 패턴과 한국 시장 알트코인 쏠림 구조를 데이터로 정리했습니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 26일 L2 수수료·매출 트래커 온체인 — Base 일 약 18만 5천 달러·Arbitrum 일 약 5만 5천 달러·L2 전체 거래량 95% 점유·Dencun blob 영향 5월 후반 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/l2-fee-revenue-onchain-2026-05-26</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/l2-fee-revenue-onchain-2026-05-26</guid>
-      <description><![CDATA[5월 26일 시점 이더리움 L2 73개 누적 TVL 약 480억 달러·Arbitrum 16억 9천만 영역·Base 12억 8천만 영역·Base 일 매출 약 18만 5천 달러·Arbitrum 일 매출 약 5만 5천 달러·Dencun blob 도입 후 L2 데이터 비용 10~100배 감소·L2가 이더리움 전체 거래량의 약 95% 점유 등 L2 수수료·매출 구조를 온체인 관점에서 정리했습니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 26일 메모코인 섹터 알트픽 5선 — PEPE 1억 5천 9백만 달러 일거래량·WIF 업비트 상장 시총 2억 2천 9백만·BONK 시총 약 6억 3천만·DOGE·SHIB 5월 후반 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/memecoin-sector-altpick-2026-05-26</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/memecoin-sector-altpick-2026-05-26</guid>
-      <description><![CDATA[5월 26일 시점 메모코인 섹터 5종(PEPE·WIF·BONK·DOGE·SHIB)의 일거래량·시가총액·한국 거래소 상장 패턴·솔라나 vs 이더리움 메모 분기 데이터를 정리했습니다. 본 글은 데이터 정리 글이며 메모코인 매수 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Morpho 딥다이브 — TVL 약 117억 8천만 달러 DeFi 렌딩 2위·Apollo 9천만 MORPHO 48개월 확약·Coinbase 9억 6천만 달러 활성 대출·V2 intent-based 5월 후반 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/morpho-deepdive-2026-05-26</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/morpho-deepdive-2026-05-26</guid>
-      <description><![CDATA[Morpho가 5월 시점 TVL 약 117억 8천만 달러로 Aave 다음 DeFi 렌딩 2위에 진입한 가운데, Apollo Global의 9천만 MORPHO 48개월 확약·Coinbase 9억 6천만 달러 활성 대출·V2 intent-based 아키텍처 등 5월 후반 단기 트리거를 토크노믹스 기준으로 정리했습니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Base L2 딥다이브 — Bridged TVL $13B·DeFi TVL $4.49B·DAU 40만·2025년 매출 $75M(YTD 62% L2 점유)·Coinbase 단일 ramp 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/base-deepdive-2026-05-25</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/base-deepdive-2026-05-25</guid>
-      <description><![CDATA[Coinbase의 OP Stack 기반 Ethereum L2 Base가 2026년 5월 시점 Bridged TVL 약 $13B·DeFi TVL 약 $4.49B·DAU 약 40만·2025년 누적 매출 약 $75.4M(L2 매출 62%)을 기록하며 Arbitrum과 함께 L2 시장 77% 점유의 한 축으로 자리잡은 가운데, OP Stack 구조·매출 30배 성장·Superchain 로드맵을 데이터 기반으로 정리했습니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 25일 BTC 거래소 잔액 온체인 — 2.43M BTC 7년 저점·30일 -45,277 BTC 유출·고래 270K 누적·반감기 일일 공급 450 BTC 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/btc-exchange-reserve-onchain-2026-05-25</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-exchange-reserve-onchain-2026-05-25</guid>
-      <description><![CDATA[5월 25일 시점 BTC 거래소 잔액이 약 2.43M BTC로 7년 최저 영역에 도달한 가운데, 30일 누적 순유출 약 -45,277 BTC·고래(1,000 BTC+) 한 달 270K BTC 누적·반감기 후 일일 신규 공급 450 BTC 대비 일일 유출 약 1,500 BTC의 공급·수요 균형을 온체인 데이터 기준으로 정리했습니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
