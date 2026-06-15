@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 13 Jun 2026 04:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 02:02:50 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[비트코인 이더리움 ETF 자금흐름 온체인 — 5월 중순 이후 약 54억 달러 BTC 유출·12개 펀드 유출 행진 종료·IBIT 약 8,600만 달러 유입 반등·ETH는 3주간 7억 1,200만 달러 유출로 벌어진 디맨드 갭 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/btc-eth-etf-flows-onchain-2026-06-14</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-eth-etf-flows-onchain-2026-06-14</guid>
+      <description><![CDATA[비트코인·이더리움 현물 ETF 자금흐름을 6월 14일 시점 데이터로 정리했습니다. 5월 중순 이후 BTC ETF에서 약 54억 달러가 빠진 기록적 유출 행진·6월 중순 12개 펀드 전부 유출 멈춤·블랙록 IBIT 약 8,600만 달러 유입으로 반등·반면 ETH ETF는 3주간 약 7억 1,200만 달러 유출로 벌어진 BTC와 ETH의 디맨드 갭까지, ETF 수급이 가격에 닿는 구조를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[6월 FOMC D-2 김프 트래커 — 금리 동결 유력에도 연내 인상 확률 50%로 재계산·공포탐욕 8 극단적 공포·역김프 구간서 맞는 6월 16~17일 회의 직전 김치프리미엄 체크포인트 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/kimp-fomc-d2-2026-06-14</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-fomc-d2-2026-06-14</guid>
+      <description><![CDATA[6월 16~17일 FOMC를 이틀 앞둔 6월 14일 김프 트래커입니다. 회의 자체는 금리 동결이 유력하지만 시장이 연내 추가 인상 확률을 약 50%로 다시 올려 잡은 재계산·공포탐욕지수 8 극단적 공포·역김프(디스카운트) 구간에서 맞는 D-2 환경·ETF 유출이 가라앉은 직후라는 배경까지, 회의 직전 김치프리미엄을 흔들 변수를 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[솔라나 SOL 딥다이브 — 파이어댄서 검증자 207곳 가동·100만 TPS 스트레스 테스트 통과·알펜글로우로 종결성 12.8초→200밀리초 목표·SOL 현물 ETF 5종 누적 약 11.2억 달러 유입 토크노믹스와 6월 펀더멘털 점검]]></title>
+      <link>https://www.tokennara.com/blog/solana-sol-deepdive-2026-06-14</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/solana-sol-deepdive-2026-06-14</guid>
+      <description><![CDATA[솔라나(Solana·SOL)를 2026년 6월 시점 데이터로 딥다이브했습니다. 파이어댄서(Firedancer) 독립 검증자 클라이언트 207곳 가동·100만 TPS 스트레스 테스트 통과·Q3 메인넷 활성화 목표·알펜글로우(Alpenglow) 합의로 종결성을 12.8초에서 200밀리초로 줄이는 목표·5종 SOL 현물 ETF 누적 약 11.2억 달러 유입·가격 약 84~96달러 영역까지, 기술 업그레이드와 토크노믹스를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[앱토스 APT 딥다이브 — 코인베이스 자문위 양자내성 블록체인 선정·스테이블코인 시총 약 16.6억 달러·180일 17억 건 처리에도 일평균 활성 지갑 100만→약 6.8만 급감·사상 최저가 0.61달러 기록한 펀더멘털과 가격 괴리 데이터 점검]]></title>
       <link>https://www.tokennara.com/blog/aptos-apt-deepdive-2026-06-13</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[Jito가 5월 시점 JitoSOL 약 14.3M SOL·TVL 약 29억 2천만 달러로 솔라나 LST TVL 1위를 유지하는 가운데, JIP-24 Block Engine·BAM 수수료 100% DAO 라우팅·MEV TipRouter 분배·JTO 토크노믹스 등 5월 후반 데이터를 정리했습니다. 본 글은 데이터 정리 글이며 JTO 매수 추천이 아닙니다.]]></description>
       <category>deepdive</category>
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 29일 오라클 섹터 알트픽 — 섹터 시총 약 76억 달러·Chainlink 점유 약 70%·TVS 약 663억 달러·Pyth 5월 19일 약 21억 3천만 언락·LINK PYTH 5월 후반 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/oracle-sector-altpick-2026-05-29</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/oracle-sector-altpick-2026-05-29</guid>
-      <description><![CDATA[5월 29일 시점 오라클 섹터 시총이 약 76억 달러로 거론되는 가운데, Chainlink가 약 70% 점유·TVS 약 663억 달러·QoQ 약 57.6% 증가·Pyth가 5월 19일 약 21억 3천만 PYTH(순환 약 36.96%) 언락·first-party 데이터 모델 등 오라클 섹터 데이터를 정리했습니다. 본 글은 데이터 정리 글이며 매수 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Aerodrome AERO 딥다이브 — Base 1위 DEX·TVL 약 13억 달러·점유 약 70%·100% 수수료 분배 ve(3,3)·7월 Velodrome 합병 5월 후반 정리]]></title>
-      <link>https://www.tokennara.com/blog/aerodrome-deepdive-2026-05-28</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/aerodrome-deepdive-2026-05-28</guid>
-      <description><![CDATA[Aerodrome가 5월 시점 Base 네트워크 DEX 유동성 약 70%·TVL 약 13억 달러·일일 거래량 약 4억 달러로 1위 자리를 지키는 가운데, 100% 수수료를 veAERO에 분배하는 ve(3,3) 토크노믹스·누적 거래량 약 1,850억 달러·누적 수수료 약 2억 7천만 달러·7월 Velodrome 합병으로 AERO 보유자 신규 토큰 약 94.5% 배정·MEV 저항 풀 마이그레이션 등 핵심 인프라 토크노믹스와 단기 트리거를 데이터 기반으로 정리했습니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[5월 28일 선물 포지셔닝 온체인 — BTC 8만 달러 도전·2026년 가장 빠른 미결제약정 증가·바이낸스 점유 약 34%·음수 펀딩비 공매도 스퀴즈 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/derivatives-oi-funding-onchain-2026-05-28</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/derivatives-oi-funding-onchain-2026-05-28</guid>
-      <description><![CDATA[5월 28일 시점 BTC가 8만 달러를 도전하며 2026년 가장 빠른 BTC 무기한 선물 미결제약정 증가 속도를 기록하고, 바이낸스가 신규 파생 자금 다수를 흡수해 약 34% 점유를 유지하고, 여러 주간 음수 펀딩비로 레버리지 다수가 공매도 포지션이었던 가운데 공매도 스퀴즈 가능성이 거론되는 등 선물 미결제약정·펀딩비·롱숏 비율 포지셔닝 데이터를 온체인 기준으로 정리했습니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
