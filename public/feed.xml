@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 16 Jun 2026 02:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:37:46 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[FOMC 당일 김프 트래커 — 6월 18일 새벽 3시 결정·점도표 동시 공개 대기, 워시 의장 첫 회의·금리 자체는 동결 유력·진짜 변수는 점도표 시나리오·역김프 구간 셀더뉴스 관전법까지 D-데이 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/kimp-fomc-dday-2026-06-17</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-fomc-dday-2026-06-17</guid>
+      <description><![CDATA[FOMC 결정일인 6월 17일(한국시간 18일 새벽 3시 발표) 당일 김프 트래커입니다. 발표 전 시점에서 금리 자체는 3.50~3.75% 동결이 유력하다고 거론되지만 진짜 변수는 동시에 공개되는 점도표(SEP·연내 인하 횟수 전망)와 케빈 워시 신임 의장의 첫 기자회견 톤입니다. 3월 점도표는 연내 2회 인하였으나 6월엔 더 줄어들 가능성이 거론되며, 한국 시장은 원/달러 약 1,518원 고환율·역김프(디스카운트) 구간에서 이 회의를 맞고 있습니다. 발표 전이라 결과를 단정하지 않고 시나리오·관전법만 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Pyth 네트워크 PYTH 딥다이브 — 113개 체인·128개 데이터 제공자·2,853개 가격피드·파생 프로토콜 60%가 의존하는 1세대 오라클 토크노믹스, 5월 19일 약 21억 토큰(약 9,200만 달러) 언락까지 점검]]></title>
+      <link>https://www.tokennara.com/blog/pyth-network-deepdive-2026-06-17</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/pyth-network-deepdive-2026-06-17</guid>
+      <description><![CDATA[Pyth 네트워크(PYTH)를 2026년 6월 시점 데이터로 딥다이브했습니다. 113개 이상 블록체인·128개 이상 데이터 제공자·2,853개 이상 가격피드·총보증가치(TVS) 자체 대시보드 약 161억 달러(Messari 기준 약 42억 달러)·파생 프로토콜의 약 60%가 Pyth 피드에 의존·2025년 대부분 달 거래량 1,000억 달러 돌파·5월 19일 약 21억 PYTH(약 9,200만 달러·유통량의 약 36.96%) 언락까지, 풀(pull) 방식 오라클의 구조와 PYTH 토크노믹스를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[솔라나 REV 온체인 — 1분기 네트워크 실질 경제가치 약 8,950만 달러로 전체 2위·앱 RCR 382%·하이퍼리퀴드 약 1.56억 달러에만 뒤진 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/solana-rev-onchain-2026-06-17</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/solana-rev-onchain-2026-06-17</guid>
+      <description><![CDATA[2026년 6월 17일 시점 솔라나의 REV(실질 경제가치)를 온체인 데이터로 정리했습니다. 1분기 솔라나 REV는 약 8,950만 달러로 전분기 약 9,020만 달러 대비 약 1% 감소했지만 전체 체인 중 2위(1위 하이퍼리퀴드 약 1.56억 달러)였고, 앱 RCR(앱 수익/네트워크 REV)이 약 382%로 1달러 REV당 앱이 약 3.82달러를 거둔 구조까지, REV가 무엇이고 왜 블록체인 매출 비교의 새 기준이 되는지를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[비트코인 공급 쇼크 온체인 — 일리퀴드 공급 76.25%로 2021년 고점 돌파·장기 보유자 400만 BTC 사상 최대·거래소 보유량 약 221만 BTC 7년 최저·30일 +31.6만 BTC 매집·거래소 고래 비율 0.64까지 6월 16일 공급 측 데이터 정리]]></title>
       <link>https://www.tokennara.com/blog/btc-supply-shock-onchain-2026-06-16</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[이더리움 L2 TVL 점유를 6월 월초 온체인 데이터로 추적했습니다. 73개+ 활성 롤업 합산 TVL 약 480억 달러·Arbitrum One 약 169억 달러(점유 약 40~44%)·Base 약 128억 달러·둘이 약 77% 집중·OP Mainnet 약 19억·옵티미스틱 약 80% vs ZK 약 20% 구도 등. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
       <category>onchain</category>
       <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[6월 월초 김프 트래커 — 5월 김프 평균 약 1~5% 중립 구간 정리·가상자산이용자보호법 이후 30~50% 기형 김프 소멸·6월 환율·업비트 빗썸 가격차 점검 루틴]]></title>
-      <link>https://www.tokennara.com/blog/kimp-monthly-2026-06-01</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-monthly-2026-06-01</guid>
-      <description><![CDATA[6월 월초 기준 김치프리미엄(김프) 트래커입니다. 5월 김프 평균 약 1~5% 중립 구간 추이·2024년 7월 가상자산이용자보호법 이후 과거 30~50% 기형 김프 소멸·역김프 발생 조건·업비트 빗썸 코인원 vs 바이낸스 비교 점검 루틴을 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DeFi 거버넌스 토큰 섹터 알트픽 — UNI 수수료 스위치 L2 확장 약 2,700만 달러 연 매출 추정·AAVE 누적 수수료 약 17억 달러·SKY 약 16.5억 시총·거버넌스 토큰 약 300억 합산 시총 5월 후반 정리]]></title>
-      <link>https://www.tokennara.com/blog/defi-governance-altpick-2026-05-31</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/defi-governance-altpick-2026-05-31</guid>
-      <description><![CDATA[DeFi 거버넌스 토큰 섹터(UNI·AAVE·SKY·COMP)를 5월 후반 데이터로 정리했습니다. UNI 수수료 스위치 L2 확장 약 2,700만 달러 연 매출 추정·AAVE 누적 수수료 약 17억 달러·누적 프로토콜 매출 약 2.27억 달러·SKY 약 16.5억 달러 시총·거버넌스 토큰 합산 약 300억 달러 시총 등. 본 글은 데이터 정리 글이며 매수 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[dYdX 딥다이브 — dYdX Chain 트레이딩 수수료 100% 스테이커 분배·DYDX 약 76.5% 유통·182개 마켓·일 거래량 약 3억 달러·2026 인플레 도입 안건 5월 후반 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/dydx-deepdive-2026-05-31</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/dydx-deepdive-2026-05-31</guid>
-      <description><![CDATA[dYdX가 dYdX Chain에서 트레이딩 수수료 100%를 DYDX 스테이커에게 분배하는 구조, DYDX 약 76.5% 유통·182개+ 마켓·일 거래량 약 3억 달러·TVL 약 2억 4천 6백만 달러·2026 인플레이션(최대 2%) 도입 거버넌스 안건 등 5월 후반 데이터를 정리했습니다. 본 글은 데이터 정리 글이며 DYDX 매수 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
