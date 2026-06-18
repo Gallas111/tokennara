@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 03:44:48 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[비트코인 ETF 자금 유출 vs 스테이블코인 공급 온체인 — 매파 FOMC 직전 주간 BTC ETF 약 34억 달러 사상 최대 순유출·ETH ETF 3주 약 7.1억 달러 이탈에도 스테이블 공급은 증가, 자금이 어디로 빠졌나 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/etf-outflow-stablecoin-flows-onchain-2026-06-18</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/etf-outflow-stablecoin-flows-onchain-2026-06-18</guid>
+      <description><![CDATA[2026년 6월 18일 시점 비트코인·이더리움 ETF 자금 유출과 스테이블코인 공급을 온체인 관점에서 분리해 정리했습니다. 보도에 따르면 6월 한 주 동안 미국 현물 비트코인 ETF에서 약 34억 달러가 빠져 2024년 출시 이후 최대 주간 순유출을 기록했고, 이더리움 ETF도 3주 누적 약 7.1억 달러가 이탈했습니다. 금리 상승·매파 연준 기대·차익 실현이 동시에 겹친 결과인데, 같은 기간 스테이블코인 공급은 오히려 완만히 늘어 '위험자산에서 빠진 돈이 어디로 갔는가'라는 질문을 던집니다. ETF 유출과 스테이블 매수대기 자금을 분리해 자금흐름을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FOMC 매파 점도표 확정 후 첫 김프 트래커 — 6월 18일 금리 동결·2026 점도표 중앙값 3.8% 상향·9명 인상 지지로 셀더뉴스 검증, 발표 후 김치프리미엄 관전법 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/kimp-fomc-result-2026-06-18</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-fomc-result-2026-06-18</guid>
+      <description><![CDATA[2026년 6월 18일 새벽 발표된 FOMC 결과를 반영한 첫 김프 트래커입니다. 연준은 금리를 3.50~3.75%로 만장일치 동결했지만, 동시에 공개된 점도표 2026년 중앙값이 3.4%에서 3.8%로 매파적으로 상향됐고 위원 19명 중 9명이 추가 인상을 지지했습니다. 인플레 전망도 헤드라인 3.6%·코어 3.3%로 올라갔습니다. 발표 전 글들이 다룬 셀더뉴스·점도표 시나리오가 실제 어떻게 확정됐는지를 검증하고, 매파 결과가 원/달러 고환율·역김프 구간의 김치프리미엄에 어떤 경로로 작동하는지를 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[메이플 파이낸스 SYRUP 딥다이브 — TVL 약 20억 달러 기관 온체인 대출 1위·syrupUSDC 6~10% 수익·프로토콜 매출 25% 토큰 바이백·2026 연 매출 1억 달러 목표·syrupBTC 출시 가시화까지 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/maple-syrup-deepdive-2026-06-18</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/maple-syrup-deepdive-2026-06-18</guid>
+      <description><![CDATA[2026년 6월 18일 시점 메이플 파이낸스(Maple Finance·SYRUP)를 토크노믹스·비즈니스 모델·리스크까지 딥다이브로 정리했습니다. 보도에 따르면 메이플은 TVL 약 20억 달러·활성 대출 약 18.5억 달러로 디파이 기관 대출 분야 최대 규모이며, AUM은 2025년 초 약 4.7억 달러에서 약 19억 달러로 급증했습니다. 일반 사용자가 KYC 풀 게이트 없이 담을 수 있는 syrupUSDC는 토큰 보상이 아닌 실제 대출 이자로 연 6~10% 수익을 제시하고, 프로토콜 매출의 25%를 SYRUP 바이백에 쓰는 구조입니다. 2026년 연 매출 1억 달러 목표와 syrupBTC 출시 가시화까지, 기관 온체인 크레딧이라는 섹터를 한 프로젝트로 깊게 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[FOMC 당일 김프 트래커 — 6월 18일 새벽 3시 결정·점도표 동시 공개 대기, 워시 의장 첫 회의·금리 자체는 동결 유력·진짜 변수는 점도표 시나리오·역김프 구간 셀더뉴스 관전법까지 D-데이 데이터 정리]]></title>
       <link>https://www.tokennara.com/blog/kimp-fomc-dday-2026-06-17</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[6월 FOMC(6월 16~17일) 주간을 앞둔 김치프리미엄(김프) 트래커입니다. SEP·점도표 동반 회의·시장 반영 동결 확률 약 98%·현 금리 3.50~3.75%·매크로 이벤트가 김프·역김프에 미치는 경로·원달러 환율과 김프 계산식·업비트 빗썸 vs 바이낸스 점검 루틴을 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
       <category>kimp</category>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Raydium RAY 딥다이브 — 시총 약 1.9억 달러·TVL 약 10억 달러 돌파·전 풀 수수료 12% RAY 바이백·LaunchLab 누적 3.5만+ 토큰 런칭·퍼프 DEX 진출·총공급 5.55억 6월 월초 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/raydium-ray-deepdive-2026-06-02</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/raydium-ray-deepdive-2026-06-02</guid>
-      <description><![CDATA[솔라나 1세대 AMM DEX인 Raydium(RAY)을 6월 월초 데이터로 정리했습니다. 시총 약 1.9억 달러·FDV 약 3.9억 달러·TVL 약 10억 달러 돌파·전 풀 수수료 12% RAY 바이백·LaunchLab 누적 3.5만+ 토큰 런칭·퍼프(무기한 선물) DEX 진출·총공급 5.55억(유통 약 1.44억)·일 수수료 약 13만 달러 등. 본 글은 데이터 정리 글이며 RAY 매수 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cosmos ATOM 딥다이브 — 동적 인플레 약 7~20%·목표 스테이킹 67%·현재 약 65% 스테이킹·인터체인 시큐리티(ICS) 매출·IBC V2 이더리움 확장·인플레 캡 거버넌스 안건 6월 월초 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/cosmos-atom-deepdive-2026-06-01</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/cosmos-atom-deepdive-2026-06-01</guid>
-      <description><![CDATA[Cosmos Hub ATOM을 6월 월초 데이터로 정리했습니다. 동적 인플레이션 약 7~20%·목표 스테이킹 비율 67%·현재 약 65% 스테이킹·인터체인 시큐리티(ICS) 컨슈머체인 매출·IBC V2 이더리움/솔라나 확장·인플레 캡 또는 폐지 거버넌스 안건·언본딩 21일 등. 본 글은 데이터 정리 글이며 ATOM 매수 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이더리움 L2 TVL 점유 온체인 — 73개 롤업 합산 TVL 약 480억 달러·Arbitrum 약 169억(약 40~44%)·Base 약 128억·둘이 약 77% 집중·옵티미스틱 약 80% vs ZK 약 20% 6월 월초 데이터 추적]]></title>
-      <link>https://www.tokennara.com/blog/eth-l2-tvl-onchain-2026-06-01</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/eth-l2-tvl-onchain-2026-06-01</guid>
-      <description><![CDATA[이더리움 L2 TVL 점유를 6월 월초 온체인 데이터로 추적했습니다. 73개+ 활성 롤업 합산 TVL 약 480억 달러·Arbitrum One 약 169억 달러(점유 약 40~44%)·Base 약 128억 달러·둘이 약 77% 집중·OP Mainnet 약 19억·옵티미스틱 약 80% vs ZK 약 20% 구도 등. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
