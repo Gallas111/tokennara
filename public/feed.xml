@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 18 Jun 2026 03:44:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:40:14 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[비트코인 채굴자 캐피츌레이션·해시 리본 온체인 — 30/60일 해시레이트 교차로 읽는 마이너 스트레스·해시 리본 회복 신호·채굴자 BTC 매도 경로·난이도 사상 최고·해시 가격 35% 하락한 마이너 생존 구조까지 6월 19일 공급 측 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/btc-miner-capitulation-onchain-2026-06-19</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-miner-capitulation-onchain-2026-06-19</guid>
+      <description><![CDATA[2026년 6월 19일 시점 비트코인 채굴자(마이너) 캐피츌레이션 신호를 온체인 데이터로 정리했습니다. 해시 리본(30일·60일 해시레이트 이동평균 교차)이 가리키는 마이너 스트레스, 올해 초 역대급 캐피츌레이션이 끝나며 나온 회복 신호, 채굴 수익이 비용 아래로 떨어질 때 발생하는 BTC 매도 경로, 난이도 사상 최고·해시당 수익 약 35% 하락 속 마이너 생존 구조까지, 채굴자 측 공급 압력을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[카스파 KAS 딥다이브 — 6월 토카타 하드포크 메인넷 활성화·KRC-20 베이스레이어·DAGKnight Q3 2026 목표·GHOSTDAG 10블록/초·발행량 95.4% 소진·약 0.03달러 가격 괴리까지 2026년 6월 시점 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/kaspa-kas-deepdive-2026-06-19</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kaspa-kas-deepdive-2026-06-19</guid>
+      <description><![CDATA[카스파(Kaspa·KAS)를 2026년 6월 시점 데이터로 딥다이브했습니다. 6월 5~20일 토카타(Toccata) 하드포크가 메인넷에 활성화되며 결제 전용 체인에서 프로그래머블 L1으로 전환·KRC-20 토큰을 베이스레이어 기능으로 도입·실버스크립트 네이티브 계약·DAGKnight 합의 업그레이드 Q3 2026 목표·GHOSTDAG 초당 10블록·최대 공급의 약 95.4% 이미 유통·KAS 약 0.03달러로 사상 고점 대비 약 84% 낮은 영역까지, 토크노믹스와 로드맵을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[셀더뉴스 종료된 하지 주간 김프 데스크 — FOMC 매파 점도표 소진 후 매크로 공백기 진입·원/달러 약 1,546원 고환율·역김프 약 -3.6% 구간·다음 빅이벤트까지 환율 점검 루틴 6월 19일 정리]]></title>
+      <link>https://www.tokennara.com/blog/kimp-postfomc-macro-gap-2026-06-19</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-postfomc-macro-gap-2026-06-19</guid>
+      <description><![CDATA[2026년 6월 19일 시점 김프 데스크입니다. 6월 17~18일 FOMC 금리 동결·2026 점도표 중앙값 3.8% 매파 상향이라는 빅이벤트가 소진되고, 하지(6월 21일) 주간의 매크로 공백기에 진입한 국면을 정리했습니다. 원/달러 약 1,546원 고환율이 김치프리미엄 계산식을 흔드는 구조·역김프 약 -3.6% 구간·셀더뉴스가 끝난 뒤 환율과 김프를 점검하는 루틴까지, 매크로 이벤트 공백기의 김프 관전법을 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[비트코인 ETF 자금 유출 vs 스테이블코인 공급 온체인 — 매파 FOMC 직전 주간 BTC ETF 약 34억 달러 사상 최대 순유출·ETH ETF 3주 약 7.1억 달러 이탈에도 스테이블 공급은 증가, 자금이 어디로 빠졌나 데이터 정리]]></title>
       <link>https://www.tokennara.com/blog/etf-outflow-stablecoin-flows-onchain-2026-06-18</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[비트코인 현물 ETF 자금 흐름을 6월 월초 온체인·자금 데이터로 추적했습니다. IBIT 약 79.4만 BTC(약 580억 달러)·전체 채굴 BTC의 약 4%·미국 현물 ETF 합산 약 128.9만 BTC·상위 3개 펀드 합산 150만+ BTC·블랙록 순거래량 약 96% 점유·IBIT NAV 약 40.47달러·연초대비 약 -16%·2026년 누적 약 45억 달러 순유출 등. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
       <category>onchain</category>
       <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[솔라나 생태계 주목 코인 알트픽 5선 — JUP 시총 약 7~8.8억·Jupiter TVL 약 29.4억·JTO jitoSOL MEV 스테이킹·RAY 바이백·솔라나 DeFi TVL 약 55억 달러 6월 월초 온체인 활성도 정리]]></title>
-      <link>https://www.tokennara.com/blog/solana-ecosystem-altpick-2026-06-03</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/solana-ecosystem-altpick-2026-06-03</guid>
-      <description><![CDATA[솔라나 생태계 주목 코인을 6월 월초 온체인 활성도로 정리했습니다. SOL 약 79~81달러·JUP 시총 약 7~8.8억 달러·Jupiter TVL 약 29.4억 달러·Jupiter Lend TVL 약 20억 달러 돌파·JTO jitoSOL MEV 스테이킹·RAY 전 풀 수수료 12% 바이백·솔라나 DeFi TVL 약 55억 달러 등 5선. 본 글은 데이터 정리 글이며 특정 코인 매수 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트코인 장기 보유자 LTH 공급 온체인 — 155일 기준 LTH 약 15.8~16.3M BTC 기록권·작년 10월 약 14.12M 대비 2M+ 증가·하락장 중 한 달 +20만 BTC·LTH-SOPR 1 이하 보유 신호 6월 월초 데이터 추적]]></title>
-      <link>https://www.tokennara.com/blog/btc-lth-supply-onchain-2026-06-02</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-lth-supply-onchain-2026-06-02</guid>
-      <description><![CDATA[비트코인 장기 보유자(LTH) 공급을 6월 월초 온체인 데이터로 추적했습니다. 155일 미이동 기준 LTH 공급 약 15.8~16.3M BTC 기록권·작년 10월 약 14.12M(BTC 약 12.6만 달러 고점) 대비 2M+ 증가·하락장 중 한 달 약 +20만 BTC·ETF 출시(2024년 1월) 이후 14~16M 박스 상단 돌파·LTH-SOPR 1 이하 보유 신호 등. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[6월 FOMC 주간 김프 트래커 — 6월 16~17일 금리결정·SEP 점도표 동결 확률 약 98%·현 금리 3.50~3.75%·매크로 이벤트와 김프·역김프 발생 조건·환율 점검 루틴 6월 월초 정리]]></title>
-      <link>https://www.tokennara.com/blog/kimp-fomc-june-2026-06-02</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-fomc-june-2026-06-02</guid>
-      <description><![CDATA[6월 FOMC(6월 16~17일) 주간을 앞둔 김치프리미엄(김프) 트래커입니다. SEP·점도표 동반 회의·시장 반영 동결 확률 약 98%·현 금리 3.50~3.75%·매크로 이벤트가 김프·역김프에 미치는 경로·원달러 환율과 김프 계산식·업비트 빗썸 vs 바이낸스 점검 루틴을 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
