@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Jun 2026 01:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 01:33:56 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[디파이 렌딩 TVL 온체인 — 렌딩 카테고리 약 365억 달러 중 에이브 약 121억(약 33%)·모포 약 68억·스파크 약 33억·저스트렌드 약 30억·상위 5곳이 약 75% 점유·디파이 부채 84%가 스테이블코인까지 2026년 6월 25일 디파이 수익률 온체인 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/defi-lending-tvl-onchain-2026-06-25</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/defi-lending-tvl-onchain-2026-06-25</guid>
+      <description><![CDATA[디파이 렌딩(예치·대출) 시장을 2026년 6월 25일 시점 온체인 TVL 데이터로 정리했습니다. 렌딩 카테고리 약 365억 달러·에이브 V3 약 121억 달러(약 33%)·모포 블루 약 68억·스파크렌드 약 33억·저스트렌드 약 30억·메이플까지 상위 5곳이 약 75% 점유·전체 디파이 TVL 약 717억 달러(2026년 37% 감소)·이더리움 점유 약 53%·디파이 부채의 약 84%가 스테이블코인까지, 렌딩 TVL과 수익률을 온체인 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[김프 계산법 — 김치프리미엄 공식 (국내가-해외가÷환율)/(해외가÷환율)부터 업비트·바이낸스 직접 계산·환율이 분모를 흔드는 원리·역김프 마이너스 해석·실수 5가지까지 2026년 6월 25일 초보 가이드]]></title>
+      <link>https://www.tokennara.com/blog/kimp-calculation-guide-2026-06-25</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-calculation-guide-2026-06-25</guid>
+      <description><![CDATA[김치프리미엄(김프)을 직접 계산하는 방법을 공식부터 단계별로 정리한 초보 가이드입니다. 김프 공식 (국내 원화가격 - 해외가격×환율) ÷ (해외가격×환율)·업비트와 바이낸스 가격으로 직접 계산하는 3단계·원/달러 환율이 분모를 흔드는 원리·역김프(마이너스) 해석·김프 사이트 숫자가 다른 이유·초보가 자주 하는 실수 5가지까지 예시로 분해했습니다. 본 글은 데이터·계산 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[폴리마켓 POLY 딥다이브 — ICE 약 20억 달러 투자·기업가치 약 90억 달러·QCX 약 1.12억 달러 인수로 미국 합법화·월드컵 거래량 +300%·POLY 토큰 2026년 에어드롭 확정·메사리 FDV 약 45억~270억 모델까지 2026년 6월 25일 예측시장 코인 토크노믹스 데이터 정리]]></title>
+      <link>https://www.tokennara.com/blog/polymarket-deepdive-2026-06-25</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/polymarket-deepdive-2026-06-25</guid>
+      <description><![CDATA[예측시장 코인 대표주자 폴리마켓(Polymarket)을 2026년 6월 25일 시점 사업·규제·토크노믹스 데이터로 정리했습니다. ICE(인터콘티넨탈익스체인지) 약 20억 달러 투자·기업가치 약 90억 달러, QCX/QCEX 약 1.12억 달러 인수와 CFTC 노액션 레터로 미국 합법 복귀, 월드컵 거래량 +300% 급증, POLY 토큰 2026년 에어드롭 확정(하이퍼리퀴드식 토크노믹스 참조), 메사리 FDV 약 45억~270억 달러 모델까지 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
+      <category>deepdive</category>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[역김프 속 알트코인 시즌 김프 트래커 — 비트코인 도미넌스 약 58%·알트시즌 인덱스 약 46·국내 마이너스 김프가 동시에 말하는 한국 시장 신호 2026년 6월 24일 정리]]></title>
       <link>https://www.tokennara.com/blog/kimp-btc-dominance-altseason-2026-06-24</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[5월 미국 CPI 발표(6월 10일 한국시각 밤) 하루 전 시점 김프 트래커입니다. 김프 약 -3.6% 역김프(디스카운트) 구간·BTC 약 6만 3천 달러(초여름 약세)·CPI가 김치프리미엄에 미치는 경로(달러 환율·위험선호·한국 매수세)·업비트 vs 바이낸스 가격차·역김프가 길어지는 구조적 배경 등을 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
       <category>kimp</category>
       <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[토르체인 RUNE 딥다이브 — 시총 약 1.1억 달러·DEX 유동성 약 6,400만 달러·누적 스왑 약 1,210억 달러·유통 약 3.5억 RUNE·노드 최소 본드 30만 RUNE·전 수수료 RUNE 결제·v3.17.0 업그레이드·솔라나 통합 로드맵 6월 월초 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/thorchain-rune-deepdive-2026-06-09</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/thorchain-rune-deepdive-2026-06-09</guid>
-      <description><![CDATA[네이티브 크로스체인 스왑 1세대 토르체인(THORChain·RUNE)을 6월 월초 데이터로 정리했습니다. 시총 약 1.1억 달러·RUNE 약 0.32달러·DEX 유동성 약 6,400만 달러·누적 스왑 약 1,210억 달러·유통 약 3.5억 RUNE·노드 최소 본드 30만 RUNE(평균 약 95만)·모든 수수료가 RUNE로 결제되며 RUNE 매수에 쓰이는 구조·v3.17.0 100여 개 개선·솔라나 통합 로드맵·과거 보안 사고 이력 등. 본 글은 데이터 정리 글이며 RUNE 매수 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[6월 둘째주 주간 김프 트래커 — 역김프 약 -2.5% 24일 연속 디스카운트·6월 1일 약 -3.1% 2021년 이후 최저·6월 6일 약 -2.46%·업비트 거래대금 약 12억 달러·KOSPI AI 자금이동·6월 10일 CPI D-2 점검 루틴 정리]]></title>
-      <link>https://www.tokennara.com/blog/kimp-weekly-2026-06-08</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-weekly-2026-06-08</guid>
-      <description><![CDATA[비트코인 국내 가격이 약 24일 연속 글로벌보다 싸게 거래되는 역김프(코리아 디스카운트) 흐름을 6월 둘째주 데이터로 정리했습니다. 6월 1일 약 -3.1%(2021년 2월 이후 최저)·6월 6일 약 -2.46%·업비트 24시간 거래대금 약 12억 달러·KOSPI 신고가 후 AI/반도체 자금이동·빗썸 규제 이슈·6월 10일 CPI D-2 리스크오프·환율이 김프 분모인 이유·매크로 전후 점검 루틴 등. 본 글은 데이터 정리 글이며 차익거래·매매 추천이 아닙니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[옵티미즘 OP 딥다이브 — 가격 약 0.11달러·시총 약 2억~3.4억 달러·ATH 4.84달러·슈퍼체인 OP스택(베이스·유니체인·잉크·월드체인)·2026년 1월 시퀀서 매출 50% OP 바이백 12개월 파일럿·거버넌스 6월 월초 토크노믹스 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/optimism-op-deepdive-2026-06-08</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/optimism-op-deepdive-2026-06-08</guid>
-      <description><![CDATA[이더리움 L2 1세대 대장주 옵티미즘(OP)을 6월 월초 데이터로 딥다이브했습니다. 가격 약 0.11달러·시총 약 2억~3.4억 달러·ATH 4.84달러(약 -97%)·슈퍼체인(OP스택 기반 베이스·유니체인·잉크·월드체인)·2026년 1월 거버넌스 승인 리비뉴 바이백(순 시퀀서 매출 50%를 매월 OP 매입, 12개월 파일럿)·Collective 트레저리·거버넌스 구조 등. 본 글은 데이터 정리 글이며 OP 매수 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
