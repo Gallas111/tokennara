@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Jul 2026 04:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:00:31 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[비트코인 실현 시가총액 보는 법 2026 온체인]]></title>
+      <link>https://www.tokennara.com/blog/btc-realized-cap-onchain-2026-07-02</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-realized-cap-onchain-2026-07-02</guid>
+      <description><![CDATA[비트코인 실현 시가총액(Realized Cap)과 실현가격을 보는 법입니다. 정의와 계산 원리, 실현가격 약 6.2만 달러의 의미, 시장가격 비교(MVRV) 해석, 글래스노드·크립토퀀트에서 보는 위치, 흔한 함정까지 데이터로 정리했습니다. 매매 추천 아님.]]></description>
+      <category>onchain</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[플룸 PLUME 딥다이브 — RWA 체인 코인 완전정리 2026]]></title>
+      <link>https://www.tokennara.com/blog/plume-rwa-deepdive-2026-07-02</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/plume-rwa-deepdive-2026-07-02</guid>
+      <description><![CDATA[실물자산(RWA) 전용 체인 플룸(PLUME)을 2026년 데이터로 정리했습니다. 시총 약 5,900만 달러·가격 약 0.0099달러·총공급 100억·RWA TVL 약 6.45억 달러·이더파이 1억 달러 볼트까지 토크노믹스와 리스크를 분해했습니다. 매매 추천 아님.]]></description>
+      <category>deepdive</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[역김프 뜻과 원리 — 역프리미엄 왜 생기나 2026]]></title>
+      <link>https://www.tokennara.com/blog/reverse-kimp-guide-2026-07-02</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/reverse-kimp-guide-2026-07-02</guid>
+      <description><![CDATA[역김프(역프리미엄)의 뜻과 생기는 원리를 데이터로 정리했습니다. 국내가 해외보다 싸지는 이유, USDT 약 1,471원과 환율 약 1,510원의 괴리, 자본통제가 차익거래를 막는 구조, 2026년 마이너스 김프 배경, 흔한 오해까지 예시로 분해했습니다. 매매 추천 아님.]]></description>
+      <category>kimp</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[비트코인 CDD 코인소각일수 온체인 지표 보는법]]></title>
       <link>https://www.tokennara.com/blog/btc-cdd-dormancy-onchain-2026-07-01</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[2026년 6월 16일 시점 DePIN(분산형 물리 인프라) 섹터를 매출 관점으로 정리한 알트픽입니다. 섹터 시총 약 90~100억 달러·비텐서(TAO) 약 31억 달러·인터넷컴퓨터(ICP) 약 15억 달러·렌더(RENDER) 약 12억 달러에 월 매출 약 3,800만 달러·파일코인(FIL) 약 8억 달러·헬륨 핫스팟 90만 개 이상·2026년 1월 온체인 매출 약 1.5억 달러(일부 전년比 800% 증가)까지, 디핀이 '하이프'에서 '실사용 매출'로 넘어간 데이터를 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
       <category>altpick</category>
       <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[하이퍼리퀴드 HYPE 딥다이브 — 어시스턴스 펀드가 수수료 97~99%로 바이백·소각, 누적 바이백 약 20억 달러 돌파·2026년 홀더 환원 약 2억 660만 달러·HIP-3 빌더 퍼프 미결제약정 약 29.8억 달러·HIP-4 예측시장 라이브까지 토크노믹스 데이터 점검]]></title>
-      <link>https://www.tokennara.com/blog/hyperliquid-hype-deepdive-2026-06-16</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/hyperliquid-hype-deepdive-2026-06-16</guid>
-      <description><![CDATA[하이퍼리퀴드(Hyperliquid·HYPE)를 2026년 6월 시점 데이터로 딥다이브했습니다. 거래 수수료의 약 97~99%를 어시스턴스 펀드가 HYPE 매입·소각에 쓰며 누적 바이백 약 20억 달러를 넘겼고·2026년 홀더 환원 약 2억 660만 달러·월 약 6,500만 달러 홀더 매출·HIP-3 빌더 배포 무기한선물(50만 HYPE 스테이킹) 미결제약정 약 29.8억 달러·HIP-4 예측시장 5월 라이브·HYPE 사상 최고 약 70달러까지, 가스 토큰 8대 기능과 가치 환원 구조를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FOMC 회의 전날 김프 트래커 — 6월 17일 금리 동결 확률 99% 유력·진짜 변수는 점도표(SEP)·역디스카운트 김치프리미엄·회의 후 48시간 셀더뉴스 반등 패턴까지 D-1 관전법 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/kimp-fomc-d1-2026-06-15</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-fomc-d1-2026-06-15</guid>
-      <description><![CDATA[6월 16~17일 FOMC를 하루 앞둔 6월 15일 김프 트래커입니다. 금리 동결 확률이 약 99%로 사실상 굳어진 가운데 진짜 변수는 점도표(SEP·dot plot)·역김프(디스카운트) 구간에서 맞는 회의 전날·공포탐욕지수 극단적 공포·회의 후 48시간 안에 자주 나온 셀더뉴스 반등 패턴까지, 회의 전날 김치프리미엄을 흔들 변수를 데이터로 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[페이파이(PayFi) 스테이블코인 결제 섹터 알트픽 — 섹터 규모 약 22.7억 달러·일일 결제량 약 1.48억 달러·후마 파이낸스 누적 38억 달러 처리·지니어스법으로 2027년 1월 시행 앞둔 결제 인프라 내러티브 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/payfi-stablecoin-sector-altpick-2026-06-15</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/payfi-stablecoin-sector-altpick-2026-06-15</guid>
-      <description><![CDATA[페이파이(PayFi·결제 금융) 스테이블코인 결제 섹터를 2026년 6월 시점 데이터로 정리했습니다. 섹터 규모 약 22.7억 달러·일일 결제 처리량 약 1.48억 달러·대장 후마 파이낸스(HUMA) 누적 약 38억 달러 처리·시총 약 7,400만 달러·지니어스법(GENIUS Act)으로 2027년 1월 발행 규제 시행·달러 강세 속 스테이블코인 결제 내러티브까지, 섹터 구조와 토큰 분화를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

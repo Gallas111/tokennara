@@ -35,6 +35,7 @@ export default function Footer() {
           <div>
             <div className="text-[10px] mono uppercase tracking-[0.2em] text-[var(--primary)] font-semibold mb-3">TOKENNARA</div>
             <ul className="space-y-2 text-[var(--muted)]">
+              <li><Link href="/tools/kimp-calculator" className="hover:text-[var(--primary)]">김프 실시간 계산기</Link></li>
               <li><Link href="/about" className="hover:text-[var(--primary)]">소개</Link></li>
               <li><Link href="/privacy" className="hover:text-[var(--primary)]">개인정보</Link></li>
               <li><Link href="/terms" className="hover:text-[var(--primary)]">이용약관</Link></li>

@@ -64,7 +64,7 @@ export default function KimchiTracker() {
           <span className="pulse-dot"></span>
           <span className="num">14초 전 업데이트</span>
         </span>
-        <a href="/tools/kimp" className="text-[var(--accent)] font-semibold hover:underline">
+        <a href="/tools/kimp-calculator" className="text-[var(--accent)] font-semibold hover:underline">
           전체 코인 →
         </a>
       </div>
