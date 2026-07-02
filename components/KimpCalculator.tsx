@@ -23,7 +23,10 @@ const COINS = [
   { sym: "DOT", name: "폴카닷" },
 ] as const;
 
-const UPBIT_URL =
+// 업비트는 브라우저 Origin 요청을 origin 단위로 강하게 제한(실측 약 1req/10s)하므로
+// CF Pages Functions 프록시(/api/kimp·엣지 10초 캐시)를 우선 사용하고, 실패 시 직접 호출 폴백.
+const UPBIT_PROXY_URL = "/api/kimp";
+const UPBIT_DIRECT_URL =
   "https://api.upbit.com/v1/ticker?markets=" +
   COINS.map((c) => `KRW-${c.sym}`).join(",") +
   ",KRW-USDT";
@@ -90,11 +93,23 @@ export default function KimpCalculator() {
     setLoading(true);
     const failed: string[] = [];
 
+    const fetchUpbit = async () => {
+      try {
+        const r = await fetch(UPBIT_PROXY_URL);
+        if (r.ok) {
+          const j = await r.json();
+          if (Array.isArray(j)) return j;
+        }
+      } catch {
+        /* 프록시 실패 → 직접 호출 폴백 */
+      }
+      const r2 = await fetch(UPBIT_DIRECT_URL);
+      if (!r2.ok) throw new Error(`upbit ${r2.status}`);
+      return r2.json();
+    };
+
     const [upRes, bnRes, fxRes] = await Promise.allSettled([
-      fetch(UPBIT_URL).then((r) => {
-        if (!r.ok) throw new Error(`upbit ${r.status}`);
-        return r.json();
-      }),
+      fetchUpbit(),
       fetch(BINANCE_URL).then((r) => {
         if (!r.ok) throw new Error(`binance ${r.status}`);
         return r.json();
