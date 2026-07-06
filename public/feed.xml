@@ -5,8 +5,32 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 06 Jul 2026 01:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:10:57 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[바이낸스에서 업비트로 코인 보내는 방법 2026]]></title>
+      <link>https://www.tokennara.com/blog/binance-to-upbit-withdrawal-onchain-2026-07-06</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/binance-to-upbit-withdrawal-onchain-2026-07-06</guid>
+      <description><![CDATA[바이낸스에서 업비트로 코인을 출금하는 방법을 2026년 기준으로 단계별로 정리했습니다. 동일 명의·네트워크 일치·트래블룰 3대 조건, 네트워크별 수수료와 도착 시간, 72시간 출금 제한까지 표와 자가진단으로 담았습니다. 매매 추천 아님.]]></description>
+      <category>onchain</category>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 상장 일정 확인과 상장 후 가격 패턴 2026]]></title>
+      <link>https://www.tokennara.com/blog/coin-listing-schedule-altpick-2026-07-06</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/coin-listing-schedule-altpick-2026-07-06</guid>
+      <description><![CDATA[코인 상장 일정을 확인하는 방법과 상장 직후 가격 패턴(상장빔·설거지)을 2026년 기준으로 정리했습니다. 업비트 공지·X 계정 등 공식 확인 경로, 신규 상장 코인 급등락 사례, 상장 전후 체크리스트까지 표와 자가진단으로 담았습니다. 매매 추천 아님.]]></description>
+      <category>altpick</category>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[김치프리미엄 실시간 확인 방법과 보는 법 2026]]></title>
+      <link>https://www.tokennara.com/blog/kimp-realtime-check-kimp-2026-07-06</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-realtime-check-kimp-2026-07-06</guid>
+      <description><![CDATA[김치프리미엄을 실시간으로 확인하는 방법과 숫자를 읽는 법을 2026년 기준으로 정리했습니다. 김프가·김프존 등 확인 사이트 비교, (국내가÷(해외가×환율)-1)×100 계산 공식, 김프가 튀는 이유, 역김프 구분까지 표와 자가진단으로 담았습니다. 매매 추천 아님.]]></description>
+      <category>kimp</category>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[비트코인 도미넌스란 확인 방법 쉽게 정리]]></title>
       <link>https://www.tokennara.com/blog/btc-dominance-how-to-onchain-2026-07-05</link>
@@ -382,30 +406,6 @@
       <description><![CDATA[메가이더(MegaETH·MEGA)를 2026년 6월 20일 시점 데이터로 딥다이브했습니다. 1~2월 메인넷을 올린 이더리움 리얼타임 L2로 목표 처리량 초당 10만 TPS 이상·블록 약 10밀리초 이하 지연·6월 23일 약 2.5억 MEGA(총공급의 약 2.5%) 언락 예정·총공급 100억·유통 약 11.3%(약 11.3억)·출시가 약 0.22달러에서 약 0.06달러 영역까지 약 70% 급락한 가격 괴리까지, 토크노믹스와 언락 일정을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
       <category>deepdive</category>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[예측시장 섹터 알트픽 — 폴리마켓·칼시 월 거래량 약 250~260억 달러·OI 양사 합산 약 11.1억 달러(점유 98%)·2025년 합산 거래 약 440억 달러·POLY 토큰 출시 기대까지 2026년 6월 20일 예측시장 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/prediction-markets-sector-altpick-2026-06-20</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/prediction-markets-sector-altpick-2026-06-20</guid>
-      <description><![CDATA[2026년 6월 20일 시점 예측시장(Prediction Market) 섹터를 데이터로 정리한 알트픽입니다. 폴리마켓·칼시가 월 약 250~260억 달러(1월 약 267.5억 달러 정점) 거래·미결제약정(OI) 양사 합산 약 11.1억 달러로 섹터 OI의 약 98% 점유·2025년 합산 약 440억 달러 거래·4월 양사 무기한선물 출시·POLY 토큰 출시 기대까지, 예측시장이 메인스트림으로 넘어간 흐름과 규제 논쟁을 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[비트코인 채굴자 캐피츌레이션·해시 리본 온체인 — 30/60일 해시레이트 교차로 읽는 마이너 스트레스·해시 리본 회복 신호·채굴자 BTC 매도 경로·난이도 사상 최고·해시 가격 35% 하락한 마이너 생존 구조까지 6월 19일 공급 측 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/btc-miner-capitulation-onchain-2026-06-19</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/btc-miner-capitulation-onchain-2026-06-19</guid>
-      <description><![CDATA[2026년 6월 19일 시점 비트코인 채굴자(마이너) 캐피츌레이션 신호를 온체인 데이터로 정리했습니다. 해시 리본(30일·60일 해시레이트 이동평균 교차)이 가리키는 마이너 스트레스, 올해 초 역대급 캐피츌레이션이 끝나며 나온 회복 신호, 채굴 수익이 비용 아래로 떨어질 때 발생하는 BTC 매도 경로, 난이도 사상 최고·해시당 수익 약 35% 하락 속 마이너 생존 구조까지, 채굴자 측 공급 압력을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[카스파 KAS 딥다이브 — 6월 토카타 하드포크 메인넷 활성화·KRC-20 베이스레이어·DAGKnight Q3 2026 목표·GHOSTDAG 10블록/초·발행량 95.4% 소진·약 0.03달러 가격 괴리까지 2026년 6월 시점 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/kaspa-kas-deepdive-2026-06-19</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kaspa-kas-deepdive-2026-06-19</guid>
-      <description><![CDATA[카스파(Kaspa·KAS)를 2026년 6월 시점 데이터로 딥다이브했습니다. 6월 5~20일 토카타(Toccata) 하드포크가 메인넷에 활성화되며 결제 전용 체인에서 프로그래머블 L1으로 전환·KRC-20 토큰을 베이스레이어 기능으로 도입·실버스크립트 네이티브 계약·DAGKnight 합의 업그레이드 Q3 2026 목표·GHOSTDAG 초당 10블록·최대 공급의 약 95.4% 이미 유통·KAS 약 0.03달러로 사상 고점 대비 약 84% 낮은 영역까지, 토크노믹스와 로드맵을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
