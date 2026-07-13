@@ -5,8 +5,176 @@
     <link>https://www.tokennara.com</link>
     <description>거래량·온체인·김치 프리미엄·프로젝트 펀더멘털을 매일 정리하는 알트코인 데이터 매거진. 본 매체는 정보 제공 목적이며 매매 권유가 아닙니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 06 Jul 2026 02:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 03:57:49 GMT</lastBuildDate>
     <atom:link href="https://www.tokennara.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[미 은행 실적시즌 개막 김프 데스크 — 7월 중순]]></title>
+      <link>https://www.tokennara.com/blog/bank-earnings-season-kimp-2026-07-13</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/bank-earnings-season-kimp-2026-07-13</guid>
+      <description><![CDATA[7월 14일 JPMorgan·Citi·Wells Fargo 등 미국 대형 은행이 2분기 실적시즌의 문을 엽니다. 6월 CPI 발표와 겹치는 이번 주 매크로 캘린더, 6월 FOMC 동결 복기, 7월 28~29일 FOMC 대기까지 김치프리미엄을 흔들 변수를 데이터로 정리했습니다. 매매 추천이 아닌 데이터 정리용입니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 포트폴리오 비중 정하는 법 — 초보 자산배분]]></title>
+      <link>https://www.tokennara.com/blog/crypto-portfolio-allocation-altpick-2026-07-13</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/crypto-portfolio-allocation-altpick-2026-07-13</guid>
+      <description><![CDATA[어떤 코인을 살지는 정했는데 얼마씩 담아야 할지 막막하셨죠? 코어·새틀라이트 구조, 변동성·확신·유동성 3기준, 투자 성향별 배분 예시표, 리밸런싱 방법까지 초보가 코인 포트폴리오 비중을 정하는 실전 프레임을 정리했습니다. 매수 추천이 아닌 정보 제공용입니다.]]></description>
+      <category>altpick</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[스캠코인·러그풀 온체인으로 거르는 법]]></title>
+      <link>https://www.tokennara.com/blog/rugpull-scam-detection-onchain-2026-07-13</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/rugpull-scam-detection-onchain-2026-07-13</guid>
+      <description><![CDATA[예쁜 홈페이지와 텔레그램만 보고 샀다가 하루아침에 0원이 된 코인, 온체인 데이터로 미리 걸러낼 수 있었을까요? 홀더 분포, 유동성 잠금, 컨트랙트 권한, 허니팟까지 스캠코인·러그풀을 매수 전에 점검하는 온체인 체크리스트를 정리했습니다. 매수 추천이 아닌 정보 제공용입니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[알트코인 고르는 법 — 지뢰 피하는 7가지 기준]]></title>
+      <link>https://www.tokennara.com/blog/altcoin-selection-criteria-altpick-2026-07-12</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/altcoin-selection-criteria-altpick-2026-07-12</guid>
+      <description><![CDATA[알트코인이 1만 6천 종을 넘는 시대, 무엇을 보고 골라야 할까요? 유통 시가총액과 FDV, 토큰 언락 일정, 실거래량과 유동성, 온체인 활성도까지 초보가 지뢰를 피하는 7가지 선정 기준을 체크리스트로 정리했습니다. 매수 추천이 아닌 정보 제공용입니다.]]></description>
+      <category>altpick</category>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[블록 익스플로러 사용법 — 이더스캔·솔스캔 조회]]></title>
+      <link>https://www.tokennara.com/blog/block-explorer-guide-onchain-2026-07-12</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/block-explorer-guide-onchain-2026-07-12</guid>
+      <description><![CDATA[출금이 안 들어올 때, 내 코인이 어디쯤 갔는지 직접 확인하는 법. 이더스캔·솔스캔·mempool.space 같은 블록 익스플로러로 트랜잭션 해시와 지갑 주소를 조회하고, 컨펌 수를 읽는 실전 순서를 초보 눈높이로 정리했습니다. 정보 제공용입니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[해외 거래소 코인 국내 반입 실질 손익 계산]]></title>
+      <link>https://www.tokennara.com/blog/overseas-coin-import-cost-kimp-2026-07-12</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/overseas-coin-import-cost-kimp-2026-07-12</guid>
+      <description><![CDATA[바이낸스에서 산 코인을 업비트로 가져와 팔면 정말 이득일까요? 김치프리미엄과 역프, 거래·네트워크 수수료, 환율, 트래블룰까지 반영한 실질 손익을 시뮬레이션으로 계산했습니다. 2026년 8월 트래블룰 개정 예정 내용도 포함한 정보 제공용 글입니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[공포탐욕지수 보는 법 — 구간 해석과 활용 2026]]></title>
+      <link>https://www.tokennara.com/blog/crypto-fear-greed-index-onchain-2026-07-11</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/crypto-fear-greed-index-onchain-2026-07-11</guid>
+      <description><![CDATA[크립토 공포탐욕지수(Fear & Greed Index) 보는 법을 2026년 기준으로 정리했습니다. 0~100 구간별 의미, Alternative.me의 5가지 계산 요소, 코인마켓캡 지수와의 차이, 역발상 지표로 활용하는 법까지 표와 체크리스트로 담았습니다. 매매 신호가 아닙니다.]]></description>
+      <category>onchain</category>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 세금 2027 총정리 — 시행 시점·세율·신고]]></title>
+      <link>https://www.tokennara.com/blog/crypto-tax-2027-guide-kimp-2026-07-11</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/crypto-tax-2027-guide-kimp-2026-07-11</guid>
+      <description><![CDATA[코인 세금(가상자산 과세)이 2027년 1월 1일 시행됩니다. 기타소득 분리과세 22% 세율, 연 250만원 기본공제, 의제취득가액 특례, 손익통산과 이월공제까지 2026년 7월 기준으로 정리했습니다. 세무 상담을 대신하지 않는 정보 제공용입니다.]]></description>
+      <category>kimp</category>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[밈코인이란 — 종류·급등락 원리·위험 2026]]></title>
+      <link>https://www.tokennara.com/blog/meme-coin-types-guide-altpick-2026-07-11</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/meme-coin-types-guide-altpick-2026-07-11</guid>
+      <description><![CDATA[밈코인이란 무엇인지 2026년 기준으로 정리했습니다. 도지코인·시바이누·페페·봉크 등 대표 종류, 왜 이렇게 급등락하는지 가격 원리, 러그풀·유동성 증발 같은 위험과 확인 체크리스트까지 표로 담았습니다. 특정 코인 매매 권유가 아닙니다.]]></description>
+      <category>altpick</category>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 출금 한도 총정리 — 업비트·빗썸 왜 막히나 2026]]></title>
+      <link>https://www.tokennara.com/blog/coin-withdrawal-limit-kimp-2026-07-10</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/coin-withdrawal-limit-kimp-2026-07-10</guid>
+      <description><![CDATA[코인 출금 한도를 2026년 기준으로 정리했습니다. 업비트·빗썸의 원화 출금 한도, 디지털 자산 출금 한도, 24시간 지연제로 출금이 막히는 이유, 김프 실무에서 한도가 왜 중요한지까지 표와 자가진단으로 담았습니다. 매매 추천 아님.]]></description>
+      <category>kimp</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 에어드랍 받는 법 — 참여 조건과 사기 피하기 2026]]></title>
+      <link>https://www.tokennara.com/blog/crypto-airdrop-how-to-qualify-altpick-2026-07-10</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/crypto-airdrop-how-to-qualify-altpick-2026-07-10</guid>
+      <description><![CDATA[코인 에어드랍 받는 법을 2026년 기준으로 정리했습니다. 보유 스냅샷·온체인 활동·테스트넷·포인트 등 참여 방식, 자격이 정해지는 원리, 사기와 시빌 판정을 피하는 법까지 표와 체크리스트로 담았습니다. 매매 추천 아님.]]></description>
+      <category>altpick</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 지갑 만드는 법 2026 — 메타마스크·팬텀 안전 설정]]></title>
+      <link>https://www.tokennara.com/blog/crypto-wallet-setup-guide-onchain-2026-07-10</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/crypto-wallet-setup-guide-onchain-2026-07-10</guid>
+      <description><![CDATA[코인 지갑 만드는 법을 2026년 기준으로 정리했습니다. 거래소 지갑과 개인 지갑의 차이, 메타마스크·팬텀 설치 순서, 12단어 복구 구문 보관법, 처음 쓸 때 흔한 실수까지 표와 체크리스트로 담았습니다. 매매 추천 아님.]]></description>
+      <category>onchain</category>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 출금 시간 네트워크별 소요 시간 정리]]></title>
+      <link>https://www.tokennara.com/blog/coin-withdrawal-time-network-kimp-2026-07-09</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/coin-withdrawal-time-network-kimp-2026-07-09</guid>
+      <description><![CDATA[코인 출금이 얼마나 걸리는지 2026년 기준으로 네트워크별 컨펌 시간과 지연 요인을 정리했습니다. 비트코인·이더리움·트론·솔라나·리플의 확인 시간, 국내 거래소 24시간 출금 지연제, 김프 차익에서 출금 시간이 중요한 이유까지 표와 체크리스트로 담았습니다. 매매 추천 아님.]]></description>
+      <category>kimp</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 지갑 핫월렛 콜드월렛 차이와 보관법]]></title>
+      <link>https://www.tokennara.com/blog/crypto-wallet-hot-cold-onchain-2026-07-09</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/crypto-wallet-hot-cold-onchain-2026-07-09</guid>
+      <description><![CDATA[코인 지갑의 핫월렛과 콜드월렛 차이를 2026년 기준으로 정리했습니다. 개인키·시드문구 개념부터 거래소 지갑·메타마스크·하드웨어 지갑(레저·트레저)의 특징, 금액대별 보관 전략, 흔한 실수까지 표와 자가진단 체크리스트로 담았습니다. 특정 제품 매수 추천 아님.]]></description>
+      <category>onchain</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 언스테이킹 기간 언본딩 해제일 정리]]></title>
+      <link>https://www.tokennara.com/blog/unstaking-unbonding-period-altpick-2026-07-09</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/unstaking-unbonding-period-altpick-2026-07-09</guid>
+      <description><![CDATA[코인 언스테이킹(스테이킹 해제)에 걸리는 언본딩 기간을 2026년 기준으로 코인별로 정리했습니다. 이더리움·솔라나·코스모스·폴카닷의 해제 대기 시간, 거래소 스테이킹과 온체인 스테이킹 차이, 락업 기간이 왜 위험이 되는지까지 표와 체크리스트로 담았습니다. 매매 추천 아님.]]></description>
+      <category>altpick</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 상장폐지 유의종목 뜻과 대응법]]></title>
+      <link>https://www.tokennara.com/blog/coin-delisting-caution-altpick-2026-07-08</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/coin-delisting-caution-altpick-2026-07-08</guid>
+      <description><![CDATA[코인 상장폐지(거래지원 종료)와 유의종목 지정의 뜻, 업비트·DAXA 절차, 유의종목 지정 후 진행 순서, 보유 코인 대응 순서와 흔한 실수를 2026년 기준으로 정리했습니다. 정리매매·출금 지원 기간까지 단계별 가이드입니다. 매매 추천 아님.]]></description>
+      <category>altpick</category>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 출금 확인 블록 익스플로러 보는 법]]></title>
+      <link>https://www.tokennara.com/blog/coin-withdrawal-tx-check-onchain-2026-07-08</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/coin-withdrawal-tx-check-onchain-2026-07-08</guid>
+      <description><![CDATA[코인 출금이 안 들어올 때 블록 익스플로러로 트랜잭션(TxID)과 컨펌 수를 직접 확인하는 법입니다. 이더스캔·트론스캔 등 조회 절차, 입금 지연 원인 5가지, 컨펌 대기·네트워크 오류 대응까지 단계별로 정리했습니다. 매매 추천 아님.]]></description>
+      <category>onchain</category>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[코인 해외 출금 트래블룰 100만원 규정]]></title>
+      <link>https://www.tokennara.com/blog/travel-rule-crypto-withdrawal-kimp-2026-07-08</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/travel-rule-crypto-withdrawal-kimp-2026-07-08</guid>
+      <description><![CDATA[코인 트래블룰(travel rule)의 100만원 기준과 해외 거래소 출금 시 알아둘 점을 2026년 기준으로 정리했습니다. 시행 배경, 수취인 정보 확인 절차, 2026년 특금법 개정 확대 논의, 김프 실무 영향까지 표와 체크리스트로 정리했습니다. 매매 추천 아님.]]></description>
+      <category>kimp</category>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[알트코인 시가총액 순위 보는 법과 FDV 함정]]></title>
+      <link>https://www.tokennara.com/blog/altcoin-marketcap-ranking-altpick-2026-07-07</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/altcoin-marketcap-ranking-altpick-2026-07-07</guid>
+      <description><![CDATA[알트코인 시가총액 순위를 제대로 읽는 법을 2026년 기준으로 정리했습니다. 시가총액 계산 원리, 유통량과 FDV(완전희석가치)의 차이, 저유통·고FDV 물량벽 함정, 순위를 볼 때 흔한 착각 3가지, 점검 자가진단까지 담았습니다. 특정 코인 매매 권유가 아닙니다.]]></description>
+      <category>altpick</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[스테이블코인 이자 받는 법 USDT USDC 예치]]></title>
+      <link>https://www.tokennara.com/blog/stablecoin-yield-earn-onchain-2026-07-07</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/stablecoin-yield-earn-onchain-2026-07-07</guid>
+      <description><![CDATA[스테이블코인(USDT·USDC) 이자를 받는 법을 2026년 기준으로 정리했습니다. 이자가 어디서 나오는지, 거래소 예치·Aave 대출·세이빙스 레이트·sUSDe의 이자율 비교표, 안전한 이자와 높은 이자의 트레이드오프, 시작 전 자가진단까지 담았습니다. 매매 추천 아님.]]></description>
+      <category>onchain</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[USDT 전송 네트워크 선택 ERC20 vs TRC20]]></title>
+      <link>https://www.tokennara.com/blog/usdt-network-erc20-trc20-onchain-2026-07-07</link>
+      <guid isPermaLink="true">https://www.tokennara.com/blog/usdt-network-erc20-trc20-onchain-2026-07-07</guid>
+      <description><![CDATA[USDT를 보낼 때 네트워크(ERC20·TRC20 등)를 어떻게 고르는지 2026년 기준으로 정리했습니다. 같은 테더인데 네트워크가 다른 이유, 수수료·속도 비교표, 상황별 선택 기준, 잘못된 네트워크로 보냈을 때 복구 가능성과 대처, 전송 전 자가진단까지 담았습니다. 매매 추천 아님.]]></description>
+      <category>onchain</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[바이낸스에서 업비트로 코인 보내는 방법 2026]]></title>
       <link>https://www.tokennara.com/blog/binance-to-upbit-withdrawal-onchain-2026-07-06</link>
@@ -238,174 +406,6 @@
       <description><![CDATA[김치프리미엄 차익거래가 왜 개인에게 어려운지 2026년 시점으로 정리했습니다. 외국환거래법 송금 한도와 강화된 형사처벌, 수수료·시차·환전 마찰, 역김프 상황, 합법 범위까지 데이터로 풀었습니다. 불법 송금 권유 아님.]]></description>
       <category>kimp</category>
       <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[트론 TRX 딥다이브 — 스테이블코인 결제망 토크노믹스]]></title>
-      <link>https://www.tokennara.com/blog/tron-trx-deepdive-2026-06-27</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/tron-trx-deepdive-2026-06-27</guid>
-      <description><![CDATA[트론(TRX)을 2026년 6월 27일 시점 토크노믹스·온체인 데이터로 정리했습니다. 시총 약 310억 달러, USDT 약 860억 달러 호스팅, DPoS 슈퍼 대표 27곳, 에너지·대역폭 모델, 스테이킹 2.0, 트론 Inc. 트레저리까지 분해했습니다. 매매 추천 아님.]]></description>
-      <category>deepdive</category>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이더리움 L2 코인 종류와 구조 — 레이어2 완전정리]]></title>
-      <link>https://www.tokennara.com/blog/eth-l2-coins-deepdive-2026-06-26</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/eth-l2-coins-deepdive-2026-06-26</guid>
-      <description><![CDATA[이더리움 L2 코인 종류와 구조를 완전정리했습니다. 옵티미스틱·ZK 롤업, 발리디움, 사이드체인 같은 기술 방식별 분류와 ARB·OP·POL·MNT·STRK·ZK 같은 주요 레이어2 코인, 평가 지표(TVL·수수료 수익·시퀀서)까지 풀었습니다. 매매 추천 아님.]]></description>
-      <category>deepdive</category>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[온체인 데이터 보는 법 — 초보 핵심 지표 7가지 정리]]></title>
-      <link>https://www.tokennara.com/blog/onchain-data-guide-2026-06-26</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/onchain-data-guide-2026-06-26</guid>
-      <description><![CDATA[온체인 데이터 보는 법을 초보자 기준으로 정리했습니다. 활성 주소·거래소 순입출금·가스·TVL 같은 활동 지표와 MVRV·SOPR·NUPL 같은 밸류에이션 지표, 글래스노드·크립토퀀트·낸센·듄 같은 도구까지 단계별로 풀었습니다. 매매 추천 아님.]]></description>
-      <category>onchain</category>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RWA 코인 종류와 순위 — 실물자산 토큰화 섹터 정리]]></title>
-      <link>https://www.tokennara.com/blog/rwa-coin-types-altpick-2026-06-26</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/rwa-coin-types-altpick-2026-06-26</guid>
-      <description><![CDATA[RWA 코인 종류와 순위를 2026년 상반기 데이터로 정리했습니다. 국채·사모신용·원자재·토큰화 주식 등 자산군별 종류와 ONDO·LINK·XLM·HBAR·AVAX 같은 주요 토큰, 토큰화 국채 약 200억 달러 시장 구조까지 풀었습니다. 매매 추천 아님.]]></description>
-      <category>altpick</category>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[디파이 렌딩 TVL 온체인 — 에이브·모포·스파크 점유율과 수익률 2026]]></title>
-      <link>https://www.tokennara.com/blog/defi-lending-tvl-onchain-2026-06-25</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/defi-lending-tvl-onchain-2026-06-25</guid>
-      <description><![CDATA[디파이 렌딩 시장을 2026년 6월 온체인 TVL로 정리했습니다. 렌딩 약 365억 달러 중 에이브 약 121억(약 33%)·모포 약 68억·스파크 약 33억, 상위 5곳 약 75% 점유, 디파이 부채 약 84%가 스테이블코인까지 분해했습니다. 매매 추천 아님.]]></description>
-      <category>onchain</category>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[김프 계산법 — 김치프리미엄 공식과 업비트·바이낸스 직접 계산 2026]]></title>
-      <link>https://www.tokennara.com/blog/kimp-calculation-guide-2026-06-25</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-calculation-guide-2026-06-25</guid>
-      <description><![CDATA[김치프리미엄(김프)을 직접 계산하는 법을 공식부터 단계별로 정리했습니다. 김프 공식·업비트와 바이낸스로 계산하는 3단계·환율이 분모를 흔드는 원리·역김프(마이너스) 해석·초보 실수 5가지까지 예시로 분해했습니다. 매매 추천 아님.]]></description>
-      <category>kimp</category>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[폴리마켓(POLY) 딥다이브 — ICE 투자·미국 합법화·에어드롭 토크노믹스 2026]]></title>
-      <link>https://www.tokennara.com/blog/polymarket-deepdive-2026-06-25</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/polymarket-deepdive-2026-06-25</guid>
-      <description><![CDATA[예측시장 코인 폴리마켓(Polymarket)을 2026년 6월 사업·규제·토크노믹스로 정리했습니다. ICE 약 20억 달러 투자·기업가치 약 90억 달러, CFTC 노액션 미국 복귀, POLY 에어드롭, 메사리 FDV 모델까지 분해했습니다. 매매 추천 아님.]]></description>
-      <category>deepdive</category>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[역김프 속 알트코인 시즌 김프 트래커 — 비트코인 도미넌스 약 58%·알트시즌 인덱스 약 46·국내 마이너스 김프가 동시에 말하는 한국 시장 신호 2026년 6월 24일 정리]]></title>
-      <link>https://www.tokennara.com/blog/kimp-btc-dominance-altseason-2026-06-24</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-btc-dominance-altseason-2026-06-24</guid>
-      <description><![CDATA[역김프(마이너스 김치프리미엄) 국면에서 비트코인 도미넌스 약 58%·알트시즌 인덱스 약 46이 함께 무엇을 말하는지를 2026년 6월 24일 김프 트래커로 정리했습니다. 도미넌스 55% 하향 돌파가 알트 회전 조건, 인덱스 75 미달, 국내 마이너스 김프와 한국 리테일 심리까지 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[밈코인 전망 2026 하반기 — 섹터 시총 약 300억 달러·DOGE·SHIB·PEPE·BONK·TRUMP 데이터로 보는 밈코인 섹터 알트픽 6월 24일]]></title>
-      <link>https://www.tokennara.com/blog/meme-coin-sector-altpick-2026-06-24</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/meme-coin-sector-altpick-2026-06-24</guid>
-      <description><![CDATA[밈코인 전망을 2026년 6월 24일 시점 섹터 데이터로 정리했습니다. 밈코인 섹터 시총 약 300억 달러 영역, DOGE·SHIB·PEPE·BONK·TRUMP 대장주, DOGE ETF·PEPE ETF 시도, 밈코인 4가지 점검 기준까지 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[월드코인 WLD 딥다이브 — 시총 약 22억 달러·유통 약 34.6억·최대공급 100억·가격 약 0.6달러·World Chain L2·World ID 홍채 인증·7월 24일 언락 43% 축소까지 2026년 6월 24일 토크노믹스 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/worldcoin-wld-deepdive-2026-06-24</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/worldcoin-wld-deepdive-2026-06-24</guid>
-      <description><![CDATA[샘 올트먼이 만든 World(구 월드코인, WLD)를 2026년 6월 24일 시점 토크노믹스·온체인·뉴스 데이터로 정리했습니다. 시총 약 22억 달러·유통 약 34.6억·최대공급 100억·가격 약 0.6달러, World Chain L2 메인넷, World ID 홍채 인증, 비자·스트라이프·틴더 제휴, 7월 24일 일일 언락 43% 축소까지 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026 상반기 결산 알트픽 — 상반기를 끌고 온 강세 알트 데이터 정리(DeXe 약 +363% YTD·하이퍼리퀴드 HYPE·밈코어·EdgeX 등 내러티브별 주도주) 2026년 6월 23일 시점 정리]]></title>
-      <link>https://www.tokennara.com/blog/altpick-h1-review-2026-06-23</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/altpick-h1-review-2026-06-23</guid>
-      <description><![CDATA[2026년 상반기(1~6월)를 끌고 온 강세 알트코인을 데이터로 결산했습니다. DeXe(DEXE) 약 +363% YTD(4월 기준 약 15달러)·하이퍼리퀴드(HYPE)·밈코어(M)·EdgeX(EDGE) 등 상승률 상위 종목과, 비트코인·이더리움이 2월 약 -10% 조정을 받는 동안 자금이 AI 에이전트·RWA·차세대 디파이·퍼프 DEX 내러티브로 회전한 흐름을 정리했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[알트코인 김치프리미엄 종목별 격차 김프트래커 — 같은 시점에도 비트코인 김프와 알트 김프가 다르게 벌어지는 이유(국내 거래량 쏠림·상장 차이·역김프), 2026년 평균 김프 약 1~5% 구간까지 6월 23일 정리]]></title>
-      <link>https://www.tokennara.com/blog/kimp-altcoin-spread-2026-06-23</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/kimp-altcoin-spread-2026-06-23</guid>
-      <description><![CDATA[왜 같은 시점에도 비트코인 김프와 알트코인 김프가 다르게 벌어지는지를 2026년 6월 23일 시점으로 정리했습니다. 2026년 평균 김프 약 1~5% 구간, 강세장·국내 거래량 쏠림 시 특정 알트만 약 5% 전후 프리미엄 펌핑, 해외가 높을 때의 역(逆)김프, 종목별 격차가 생기는 4대 원인(국내 거래량 쏠림·상장 여부·유동성·환율)까지 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[스텔라 XLM 딥다이브 — 총공급 약 500억(2019년 1% 인플레 폐지로 고정)·유통 약 338억·시총 약 68~74억 달러·가격 약 0.20달러·페이팔 PYUSD 스텔라 확장·6월 20일 스시스왑 크로스체인·7월 8일 프로토콜 27까지 2026년 6월 23일 토크노믹스 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/stellar-xlm-deepdive-2026-06-23</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/stellar-xlm-deepdive-2026-06-23</guid>
-      <description><![CDATA[결제 블록체인 스텔라(XLM)를 2026년 6월 23일 시점 토크노믹스·온체인·뉴스 데이터로 정리했습니다. 총공급 약 500억(2019년 커뮤니티 투표로 1% 인플레이션 폐지·초기 1,000억에서 소각)·유통 약 338억·시총 약 68~74억 달러·가격 약 0.20달러, 페이팔 PYUSD 스텔라 확장, 6월 20일 스시스왑 크로스체인 스왑, DTCC 토큰화 증권 결제(2027 상반기 목표), 7월 8일 프로토콜 27 업그레이드(위임 인증·양자내성 암호 도입)까지 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[디파이 대출 섹터 알트픽 — 섹터 TVL 약 750~800억 달러·Aave 약 150~190억·Morpho 약 50~120억·Spark 약 35~70억·스테이블코인 예치 이율 약 3.5~9%·전체 차입의 약 84%가 스테이블코인까지 2026년 6월 22일 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/defi-lending-sector-altpick-2026-06-22</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/defi-lending-sector-altpick-2026-06-22</guid>
-      <description><![CDATA[디파이 대출(렌딩) 섹터를 2026년 6월 22일 시점 데이터로 정리했습니다. 섹터 TVL 약 750~800억 달러·Aave V3 약 150~190억·Morpho 약 50~120억·Spark 약 35~70억·Compound 약 27억·스테이블코인 예치 이율 약 3.5~9% APY(Morpho 4~7%·Spark SSR 약 4.5%·Aave 3~6%)·전체 디파이 차입의 약 84%가 스테이블코인·Morpho Blue + 큐레이터 볼트 구조·코인베이스 USDC 라우팅까지, 섹터 구조와 주요 프로토콜을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>altpick</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[렌더 네트워크 RENDER 딥다이브 — 번-민트 이퀄리브리엄(BME)·작업비 95% 소각·유통 약 5.2억 중 최대 약 6.4억·시총 약 8.7억 달러·살라드 GPU 6만 개 통합·디스퍼스드 AI 서브넷까지 2026년 6월 22일 토크노믹스 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/render-network-deepdive-2026-06-22</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/render-network-deepdive-2026-06-22</guid>
-      <description><![CDATA[렌더 네트워크(Render·RENDER)를 2026년 6월 22일 시점 데이터로 딥다이브했습니다. 번-민트 이퀄리브리엄(BME) 구조에서 작업비의 약 95%가 소각되고 약 5%가 프로토콜 수수료로 남는 구조·에폭마다 노드 운영자 보상 90%·가용성 인센티브 10% 발행·유통 약 5.2억 RENDER 중 최대 약 6.4억·시총 약 8.7억 달러(약 73위)·FDV 약 9억 달러·초기 2년 후 5년마다 발행 절반 축소·RNP-023 살라드 GPU 약 6만 개 통합·디스퍼스드(Dispersed) AI 서브넷·H100 DePIN 가격 우위까지, 토크노믹스와 로드맵을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[스테이블코인 체인별 분포 온체인 — 전체 약 3,150~3,210억 달러 중 이더리움 약 1,700억(약 60%)·트론 약 870억(USDT 97%+)·솔라나 약 160억·BNB 약 140억·베이스 약 50억까지 2026년 6월 22일 온체인 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/stablecoin-by-chain-onchain-2026-06-22</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/stablecoin-by-chain-onchain-2026-06-22</guid>
-      <description><![CDATA[스테이블코인이 어느 체인에 얼마나 올라가 있는지 2026년 6월 22일 시점 온체인 데이터로 정리했습니다. 전체 스테이블코인 시총 약 3,150~3,210억 달러·USDT 약 1,880억(약 58%)·USDC 약 780억·이더리움 약 1,700억(전체의 약 60%)·트론 약 870억(USDT가 약 97% 이상)·솔라나 약 160억(USDC 절반 이상)·BNB체인 약 140억·베이스 약 50억(USDC 약 90%)까지, 체인별 점유와 그 의미를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[이더리움 스테이킹 ETF 수익률 온체인 — 3월 17일 SEC·CFTC 스테이킹 비증권 해석·블랙록 ETHB 총수익 약 3.1~3.3% 중 약 82% 분배·순분배 약 1.9~2.6%·2분기 5개 발행사 승인 대기까지 2026년 6월 21일 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/eth-staking-etf-yield-onchain-2026-06-21</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/eth-staking-etf-yield-onchain-2026-06-21</guid>
-      <description><![CDATA[이더리움 스테이킹 ETF의 수익률 구조를 2026년 6월 21일 시점 데이터로 정리했습니다. 3월 17일 SEC·CFTC가 16개 디지털 상품의 스테이킹 보상을 비증권으로 해석한 규제 분기점·블랙록 ETHB가 총 스테이킹 보상의 약 82%를 분배·총수익 약 3.1~3.3% 중 수수료 차감 후 순분배 약 1.9~2.6%·피델리티 등 5개 발행사 2분기 승인 대기까지, 가격이 아니라 '수익률이 어떻게 만들어지는지'를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[세이 네트워크 SEI 딥다이브 — 기가(Giga) 업그레이드 목표 초당 20만 TPS·블록 400밀리초·오토반 합의·병렬 EVM·총공급 100억·유통 약 72억·7월 15일 다음 언락까지 2026년 6월 21일 토크노믹스 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/sei-deepdive-2026-06-21</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/sei-deepdive-2026-06-21</guid>
-      <description><![CDATA[세이 네트워크(Sei·SEI)를 2026년 6월 21일 시점 데이터로 딥다이브했습니다. 기가(Giga) 업그레이드의 목표 처리량 초당 20만 TPS·블록 약 400밀리초·오토반(Autobahn) 합의·병렬 EVM(테스트넷 +300~400% 처리량)·EVM 전용 체인 전환·총공급 100억 중 유통 약 72억·생태계 리저브 48%·팀 20%·7월 15일 다음 언락·시총 약 3.9억 달러 영역까지, 토크노믹스와 업그레이드 로드맵을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[원화 스테이블코인 규제 김프 트래커 — 디지털자산기본법 은행 51% 지분·발행사 최소자본 50억 원·외국 스테이블코인 국내지점 의무·6월 지방선거 후 하반기 심사까지 김치프리미엄 구조에 미칠 변화 2026년 6월 21일 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/won-stablecoin-kimp-2026-06-21</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/won-stablecoin-kimp-2026-06-21</guid>
-      <description><![CDATA[원화 스테이블코인 규제가 김치프리미엄 구조를 어떻게 바꿀 수 있는지 2026년 6월 21일 시점 데이터로 정리했습니다. 디지털자산기본법이 은행 51% 지분·발행사 최소자본 50억 원(약 350만 달러)·외국 스테이블코인 국내지점 의무·9년 만의 국내 발행 합법화를 담은 흐름·6월 지방선거 이후 하반기 심사로 미뤄진 일정·원화 스테이블코인이 김프 계산 구조에 미칠 변화까지, 가격 예측이 아니라 제도 변화를 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>kimp</category>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[크립토 시장구조 온체인 — 파생상품 거래량 비중 약 73%·스테이블코인 유동성 약 3,200억 달러·기관 컨솔리데이션 국면·현물 거래량 18개월 저점까지 2026년 6월 20일 시장 골격 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/crypto-market-structure-onchain-2026-06-20</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/crypto-market-structure-onchain-2026-06-20</guid>
-      <description><![CDATA[2026년 6월 20일 시점 크립토 시장구조를 온체인·거래소 데이터로 정리했습니다. 파생상품이 전체 거래량의 약 73%를 차지하고 무기한선물 거래량이 2년 새 약 75%(약 4.14조→7.24조 달러) 늘었으며, 스테이블코인 유동성이 약 3,200억 달러를 넘어 거래량의 약 75%가 스테이블코인 기반인 구조·현물 거래량 18개월 저점·기관 컨솔리데이션 국면까지, 가격이 아니라 '시장 골격'을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>onchain</category>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[메가이더 MEGA 딥다이브 — 리얼타임 L2 목표 초당 10만 TPS·블록 10밀리초·6월 23일 약 2.5%(2.5억 MEGA) 언락·총공급 100억·출시가 0.22달러 대비 약 70% 급락한 0.06달러 영역까지 2026년 6월 20일 토크노믹스 데이터 정리]]></title>
-      <link>https://www.tokennara.com/blog/megaeth-mega-deepdive-2026-06-20</link>
-      <guid isPermaLink="true">https://www.tokennara.com/blog/megaeth-mega-deepdive-2026-06-20</guid>
-      <description><![CDATA[메가이더(MegaETH·MEGA)를 2026년 6월 20일 시점 데이터로 딥다이브했습니다. 1~2월 메인넷을 올린 이더리움 리얼타임 L2로 목표 처리량 초당 10만 TPS 이상·블록 약 10밀리초 이하 지연·6월 23일 약 2.5억 MEGA(총공급의 약 2.5%) 언락 예정·총공급 100억·유통 약 11.3%(약 11.3억)·출시가 약 0.22달러에서 약 0.06달러 영역까지 약 70% 급락한 가격 괴리까지, 토크노믹스와 언락 일정을 데이터로 분해했습니다. 본 글은 데이터 정리 글이며 매매 추천이 아닙니다.]]></description>
-      <category>deepdive</category>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
