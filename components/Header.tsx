@@ -4,29 +4,6 @@ import { CATEGORY_LIST } from "@/lib/categories";
 export default function Header() {
   return (
     <header className="border-b border-[var(--border)] bg-[var(--bg)]/85 backdrop-blur-md sticky top-0 z-50">
-      {/* 라이브 티커 스트립 */}
-      <div className="border-b border-[var(--border)] bg-[var(--surface)] overflow-hidden">
-        <div className="marquee py-2 text-[11px]">
-          <div className="marquee-track">
-            {Array.from({ length: 2 }).map((_, i) => (
-              <span key={i} className="inline-flex gap-7 px-7 text-[var(--muted)]">
-                <span className="inline-flex items-center gap-1.5">
-                  <span className="pulse-dot"></span>
-                  <span className="font-semibold tracking-wider text-[var(--up)]">LIVE</span>
-                </span>
-                <span><span className="text-[var(--muted-strong)]">BTC</span> <span className="text-white mono tabular">98,420</span> <span className="up mono tabular">+2.34%</span></span>
-                <span><span className="text-[var(--muted-strong)]">ETH</span> <span className="text-white mono tabular">3,485</span> <span className="up mono tabular">+1.18%</span></span>
-                <span><span className="text-[var(--muted-strong)]">SOL</span> <span className="text-white mono tabular">215.6</span> <span className="down mono tabular">−0.74%</span></span>
-                <span><span className="text-[var(--accent)]">김프</span> <span className="warn mono tabular">+1.82%</span></span>
-                <span><span className="text-[var(--muted-strong)]">BTC 도미넌스</span> <span className="text-white mono tabular">54.3%</span></span>
-                <span><span className="text-[var(--secondary)]">알트시즌</span> <span className="text-white mono tabular">72</span><span className="text-[var(--muted)] mono">/100</span></span>
-                <span><span className="text-[var(--muted-strong)]">공포·탐욕</span> <span className="warn mono tabular">68</span></span>
-              </span>
-            ))}
-          </div>
-        </div>
-      </div>
-
       <div className="max-w-6xl mx-auto px-6 py-3.5 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2.5 group">
           <div className="relative w-9 h-9 rounded-xl bg-gradient-to-br from-[var(--primary)] via-[#00d9ff] to-[var(--secondary)] flex items-center justify-center font-black text-black text-base shadow-lg shadow-[var(--primary)]/20">

@@ -2,7 +2,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import PostCard from "@/components/PostCard";
-import KimchiTracker from "@/components/KimchiTracker";
+import KimpCalculator from "@/components/KimpCalculator";
 import { getAllPosts } from "@/lib/posts";
 import { CATEGORIES, CATEGORY_LIST } from "@/lib/categories";
 
@@ -20,9 +20,8 @@ export default function Home() {
           <div className="max-w-6xl mx-auto px-6 pt-14 pb-12 grid lg:grid-cols-[1.05fr_1fr] gap-12 items-center">
             <div>
               <div className="inline-flex items-center gap-2 mb-6 px-3 py-1.5 rounded-full border border-[var(--secondary)]/30 bg-[var(--secondary-soft)]">
-                <span className="pulse-dot"></span>
                 <span className="text-[11px] font-semibold tracking-wide text-[var(--secondary)]">
-                  알트시즌 인덱스 <span className="mono tabular">72/100</span> · 진입 직전
+                  추천 아닌 기록 · 거래량·온체인·김프를 매일 정리
                 </span>
               </div>
               <h1 className="text-[44px] md:text-[56px] leading-[1.05] font-extrabold mb-5 tracking-tight">
@@ -51,12 +50,12 @@ export default function Home() {
               {/* 통계 strip */}
               <div className="mt-9 grid grid-cols-3 gap-5 pt-6 border-t border-[var(--border)]">
                 <div>
-                  <div className="text-[32px] leading-none stat-num text-[var(--primary)]">39</div>
+                  <div className="text-[32px] leading-none stat-num text-[var(--primary)]">{posts.length}</div>
                   <div className="text-[11px] text-[var(--muted)] mt-2.5 tracking-wide">분석 글 발행</div>
                 </div>
                 <div>
-                  <div className="text-[32px] leading-none stat-num text-white">3.2<span className="text-[var(--muted)] text-[22px]">k</span></div>
-                  <div className="text-[11px] text-[var(--muted)] mt-2.5 tracking-wide">텔레그램 구독</div>
+                  <div className="text-[32px] leading-none stat-num text-white">{CATEGORY_LIST.length}</div>
+                  <div className="text-[11px] text-[var(--muted)] mt-2.5 tracking-wide">데이터 시리즈</div>
                 </div>
                 <div>
                   <div className="leading-none flex items-baseline gap-1.5">
@@ -69,8 +68,8 @@ export default function Home() {
               </div>
             </div>
 
-            {/* 김프 트래커 */}
-            <KimchiTracker />
+            {/* 실시간 김프 계산기 */}
+            <KimpCalculator />
           </div>
         </section>
 
