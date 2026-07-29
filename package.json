@@ -7,7 +7,9 @@
     "build": "npx tsx scripts/generate-feed.ts && next build --webpack",
     "start": "next start",
     "feed": "npx tsx scripts/generate-feed.ts",
-    "indexnow": "bash scripts/submit-indexnow.sh"
+    "indexnow": "bash scripts/submit-indexnow.sh",
+    "blog:gate": "tsx scripts/publish-gate.ts",
+    "blog:validate": "tsx scripts/validate-links.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
