@@ -131,6 +131,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gtag('config', 'G-EH74HFTEBQ');
           `}
         </Script>
+        {/* 자체 방문 집계 비콘 — 쿠키 없음, DOM 변경 없음(CLS 무영향) */}
+        <script async src="https://blog-analytics.j-810.workers.dev/b.js" data-site="tokennara"></script>
       </body>
     </html>
   );
